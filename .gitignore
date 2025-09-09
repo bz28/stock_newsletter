@@ -1,5 +1,2 @@
+# Ignore environment variables
 .env
-__pycache__/
-*.pyc
-*.DS_Store
-venv/

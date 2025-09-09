@@ -36,3 +36,7 @@ with open("test_prompts/stock_movement_prompt/output.txt", "w", encoding="utf-8"
     f.write(output_text)
 
 print("Output generated")
+
+
+
+# generate pros and cons based on articles
