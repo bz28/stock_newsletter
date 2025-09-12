@@ -1,0 +1,61 @@
+Based on recent discussions across TikTok, Reddit, and X (formerly Twitter), here are the top 10 trending stocks from the past week, along with their price movements and key catalysts:
+
+1. **Tesla Inc. (TSLA) +6.06%**
+   - *Why:* Strong earnings report and Hertz's order of 100,000 vehicles.
+   - **Buzz:** Social mentions increased by 50% across TikTok and Reddit, reflecting excitement over Elon Musk’s strategy and future growth.
+   - **Quick Stat:** P/E = 75 (market avg ~25).
+   - **What This Means:** The surge in social buzz and robust earnings indicate strong investor confidence, though the high P/E suggests caution due to elevated expectations.
+
+2. **NVIDIA Corporation (NVDA) +0.10%**
+   - *Why:* CEO's decision to halt share sales boosts investor confidence.
+   - **Buzz:** +35% mentions on X; discussions highlight potential for sustained growth in AI sectors.
+   - **Quick Stat:** EPS = $4.47 (previous quarter).
+   - **What This Means:** The CEO's move reassures investors, and increased discussion around AI growth only reinforces the stock’s upward potential, despite a modest price change.
+
+3. **C3.ai, Inc. (AI) +15.52%**
+   - *Why:* Increased adoption of AI solutions across industries.
+   - **Buzz:** +60% mentions on Reddit's r/stocks, fueled by optimism in AI technologies and recent contract wins.
+   - **Quick Stat:** Short interest = 28% (very high).
+   - **What This Means:** The high interest in AI fuels optimism and drives stock performance, but significant short interest indicates market skepticism that could lead to volatility.
+
+4. **Advanced Micro Devices, Inc. (AMD) -2.45%**
+   - *Why:* Anticipation of upcoming earnings report.
+   - **Buzz:** -20% mentions on Stocktwits; sentiment shows some concern about competitive pressures.
+   - **Quick Stat:** Dividend yield = 0.59% (low).
+   - **What This Means:** The decline and lack of buzz reflect a cautious sentiment ahead of earnings, suggesting investors may be wary of competitive challenges.
+
+5. **Meta Platforms, Inc. (META) -0.14%**
+   - *Why:* Exploring over $10 billion investment in Scale AI.
+   - **Buzz:** +15% mentions on X, though optimism is tempered by discussions surrounding privacy issues and competition.
+   - **Quick Stat:** P/E = 23 (competitive industry).
+   - **What This Means:** While significant investments indicate Meta's commitment to AI, ongoing privacy discussions and competition can dampen investor enthusiasm.
+
+6. **Apple Inc. (AAPL) +1.55%**
+   - *Why:* Announced Siri AI upgrade slated for Spring 2026.
+   - **Buzz:** +25% mentions on TikTok; generally positive sentiment regarding innovation and upcoming product releases.
+   - **Quick Stat:** EPS = $6.11 (solid performance).
+   - **What This Means:** Positive sentiment around innovation and product enhancement drives modest price action, suggesting a strong foundation but also high expectations.
+
+7. **Amazon.com, Inc. (AMZN) -0.22%**
+   - *Why:* Ongoing expansion into new markets and services.
+   - **Buzz:** -10% mentions on Reddit; discussions show mixed feelings about growth sustainability in an inflationary environment.
+   - **Quick Stat:** P/E = 45 (investor caution).
+   - **What This Means:** Despite expansion efforts, concerns over growth sustainability in a challenging economic landscape lead to cautious investor sentiment.
+
+8. **Microsoft Corporation (MSFT) +0.13%**
+   - *Why:* Continued growth in cloud computing and software services.
+   - **Buzz:** +30% mentions on Stocktwits; strong sentiment around cloud offerings amid AI trends.
+   - **Quick Stat:** Dividend yield = 0.88% (consistent returns).
+   - **What This Means:** The steady buzz about cloud growth reflects investor confidence in Microsoft's positioning, although the modest price increase suggests a wait-and-see approach.
+
+9. **Alphabet Inc. (GOOGL) +0.51%**
+   - *Why:* Advancements in AI and search technologies.
+   - **Buzz:** +40% mentions on X; strong discussions focusing on AI developments and acquisition strategies.
+   - **Quick Stat:** P/E = 25 (healthy valuation).
+   - **What This Means:** Increased social discussions around AI developments point to confidence in Alphabet's long-term prospects, justifying its current valuation.
+
+10. **Netflix Inc. (NFLX) -3.55%**
+    - *Why:* Subscriber growth concerns amid increased competition.
+    - **Buzz:** -25% mentions on TikTok, showing heightened anxiety about future content strategy and competition with newer streaming platforms.
+    - **Quick Stat:** Short interest = 8% (watch closely).
+    - **What This Means:** Declining subscriber sentiment and rising competition create growing worries, as indicated by the stock's downturn despite relatively low short interest.
