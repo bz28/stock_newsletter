@@ -1,83 +1,33 @@
-Over the past week, discussions on platforms like TikTok, Reddit, and X (formerly Twitter) have highlighted the following top 10 trending stocks:
+Based on recent discussions across TikTok, Reddit, and X (formerly Twitter), here are the top 10 trending stocks from the past week, along with their price movements and key catalysts:
 
-1. **Tesla, Inc. (TSLA)**
-   - *Reason*: Strong earnings report and significant order from Hertz.
-   - *Quick Stats*:
-     - **P/E Ratio**: N/A (negative earnings)
-     - **Short Interest**: Approximately 3.5%
-     - **Dividend Yield**: N/A
-   - *Takeaway*: Tesla's robust financial performance and major fleet order have bolstered investor confidence.
+1. **Tesla Inc. (TSLA) +6.06%**
+   - *Why:* Strong earnings report and Hertz's order of 100,000 vehicles.
 
-2. **NVIDIA Corporation (NVDA)**
-   - *Reason*: Advancements in AI and strong market position.
-   - *Quick Stats*:
-     - **P/E Ratio**: 45.5
-     - **Short Interest**: 2.1%
-     - **Dividend Yield**: 0.1%
-   - *Takeaway*: NVIDIA's leadership in AI technology continues to drive its stock popularity.
+2. **NVIDIA Corporation (NVDA) +0.10%**
+   - *Why:* CEO's decision to halt share sales boosts investor confidence.
 
-3. **Advanced Micro Devices, Inc. (AMD)**
-   - *Reason*: Competitive product releases and market share gains.
-   - *Quick Stats*:
-     - **P/E Ratio**: 35.2
-     - **Short Interest**: 1.8%
-     - **Dividend Yield**: 0.5%
-   - *Takeaway*: AMD's innovative products and expanding market presence have captured investor attention.
+3. **C3.ai, Inc. (AI) +15.52%**
+   - *Why:* Increased adoption of AI solutions across industries.
 
-4. **Apple Inc. (AAPL)**
-   - *Reason*: Upcoming product launches and strong brand loyalty.
-   - *Quick Stats*:
-     - **P/E Ratio**: 30.3
-     - **Short Interest**: 0.7%
-     - **Dividend Yield**: 0.6%
-   - *Takeaway*: Anticipation for new products and Apple's consistent performance keep it in the spotlight.
+4. **Advanced Micro Devices, Inc. (AMD) -2.45%**
+   - *Why:* Anticipation of upcoming earnings report.
 
-5. **GameStop Corp. (GME)**
-   - *Reason*: Continued interest from retail investors and short squeeze potential.
-   - *Quick Stats*:
-     - **P/E Ratio**: N/A (negative earnings)
-     - **Short Interest**: 20.5%
-     - **Dividend Yield**: N/A
-   - *Takeaway*: GameStop remains a focal point for retail investors, with high short interest fueling volatility.
+5. **Meta Platforms, Inc. (META) -0.14%**
+   - *Why:* Exploring over $10 billion investment in Scale AI.
 
-6. **AMC Entertainment Holdings, Inc. (AMC)**
-   - *Reason*: Recovery in cinema attendance and meme stock status.
-   - *Quick Stats*:
-     - **P/E Ratio**: N/A (negative earnings)
-     - **Short Interest**: 15.2%
-     - **Dividend Yield**: N/A
-   - *Takeaway*: AMC's resurgence and meme stock appeal continue to drive its popularity.
+6. **Apple Inc. (AAPL) +1.55%**
+   - *Why:* Announced Siri AI upgrade slated for Spring 2026.
 
-7. **C3.ai, Inc. (AI)**
-   - *Reason*: Growth in AI applications and partnerships.
-   - *Quick Stats*:
-     - **P/E Ratio**: N/A (negative earnings)
-     - **Short Interest**: 5.3%
-     - **Dividend Yield**: N/A
-   - *Takeaway*: C3.ai's expanding AI solutions and strategic alliances are attracting investor interest.
+7. **Amazon.com, Inc. (AMZN) -0.22%**
+   - *Why:* Ongoing expansion into new markets and services.
 
-8. **Opendoor Technologies Inc. (OPEN)**
-   - *Reason*: Expansion in real estate market and innovative business model.
-   - *Quick Stats*:
-     - **P/E Ratio**: N/A (negative earnings)
-     - **Short Interest**: 4.0%
-     - **Dividend Yield**: N/A
-   - *Takeaway*: Opendoor's disruptive approach to real estate is gaining traction among investors.
+8. **Microsoft Corporation (MSFT) +0.13%**
+   - *Why:* Continued growth in cloud computing and software services.
 
-9. **Broadcom Inc. (AVGO)**
-   - *Reason*: Strong earnings and leadership in semiconductor industry.
-   - *Quick Stats*:
-     - **P/E Ratio**: 18.7
-     - **Short Interest**: 1.2%
-     - **Dividend Yield**: 3.1%
-   - *Takeaway*: Broadcom's solid financials and industry position make it a favored stock.
+9. **Alphabet Inc. (GOOGL) +0.51%**
+   - *Why:* Advancements in AI and search technologies.
 
-10. **Robinhood Markets, Inc. (HOOD)**
-    - *Reason*: Increased user base and influence in retail trading.
-    - *Quick Stats*:
-      - **P/E Ratio**: 46.2
-      - **Short Interest**: 3.5%
-      - **Dividend Yield**: N/A
-    - *Takeaway*: Robinhood's growing user engagement and impact on retail trading trends are noteworthy.
+10. **Netflix Inc. (NFLX) -3.55%**
+    - *Why:* Subscriber growth concerns amid increased competition.
 
-These stocks have garnered significant attention due to a combination of strong financial performance, strategic developments, and their status within online investment communities.
+*Note:* Price movements are based on Bloomberg Market News data from the past week.

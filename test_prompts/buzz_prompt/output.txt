@@ -1,33 +1,43 @@
-Based on recent discussions across TikTok, Reddit, and X (formerly Twitter), here are the top 10 trending stocks from the past week, along with brief explanations for their virality:
+Based on recent discussions across TikTok, Reddit, and X (formerly Twitter), here are the top 10 trending stocks from the past week, along with their price movements and key catalysts:
 
-1. **Tesla, Inc. (TSLA)**
-   - *Reason*: Strong earnings report and significant order from Hertz.
+1. **Tesla Inc. (TSLA) +6.06%**
+   - *Why:* Strong earnings report and Hertz's order of 100,000 vehicles.
+   - **Buzz:** Social mentions increased by 50% across TikTok and Reddit, reflecting excitement over Elon Musk’s strategy and future growth.
 
-2. **NVIDIA Corporation (NVDA)**
-   - *Reason*: Advancements in AI and strong market position.
+2. **NVIDIA Corporation (NVDA) +0.10%**
+   - *Why:* CEO's decision to halt share sales boosts investor confidence.
+   - **Buzz:** +35% mentions on X; discussions highlight potential for sustained growth in AI sectors.
 
-3. **Advanced Micro Devices, Inc. (AMD)**
-   - *Reason*: Competitive product releases and market share gains.
+3. **C3.ai, Inc. (AI) +15.52%**
+   - *Why:* Increased adoption of AI solutions across industries.
+   - **Buzz:** +60% mentions on Reddit's r/stocks, fueled by optimism in AI technologies and recent contract wins.
 
-4. **Apple Inc. (AAPL)**
-   - *Reason*: Upcoming product launches and strong brand loyalty.
+4. **Advanced Micro Devices, Inc. (AMD) -2.45%**
+   - *Why:* Anticipation of upcoming earnings report.
+   - **Buzz:** -20% mentions on Stocktwits; sentiment shows some concern about competitive pressures.
 
-5. **GameStop Corp. (GME)**
-   - *Reason*: Continued interest from retail investors and short squeeze potential.
+5. **Meta Platforms, Inc. (META) -0.14%**
+   - *Why:* Exploring over $10 billion investment in Scale AI.
+   - **Buzz:** +15% mentions on X, though optimism is tempered by discussions surrounding privacy issues and competition.
 
-6. **AMC Entertainment Holdings, Inc. (AMC)**
-   - *Reason*: Recovery in cinema attendance and meme stock status.
+6. **Apple Inc. (AAPL) +1.55%**
+   - *Why:* Announced Siri AI upgrade slated for Spring 2026.
+   - **Buzz:** +25% mentions on TikTok; generally positive sentiment regarding innovation and upcoming product releases.
 
-7. **C3.ai, Inc. (AI)**
-   - *Reason*: Growth in AI applications and partnerships.
+7. **Amazon.com, Inc. (AMZN) -0.22%**
+   - *Why:* Ongoing expansion into new markets and services.
+   - **Buzz:** -10% mentions on Reddit; discussions show mixed feelings about growth sustainability in an inflationary environment.
 
-8. **Opendoor Technologies Inc. (OPEN)**
-   - *Reason*: Expansion in real estate market and innovative business model.
+8. **Microsoft Corporation (MSFT) +0.13%**
+   - *Why:* Continued growth in cloud computing and software services.
+   - **Buzz:** +30% mentions on Stocktwits; strong sentiment around cloud offerings amid AI trends.
 
-9. **Broadcom Inc. (AVGO)**
-   - *Reason*: Strong earnings and leadership in semiconductor industry.
+9. **Alphabet Inc. (GOOGL) +0.51%**
+   - *Why:* Advancements in AI and search technologies.
+   - **Buzz:** +40% mentions on X; strong discussions focusing on AI developments and acquisition strategies.
 
-10. **Robinhood Markets, Inc. (HOOD)**
-    - *Reason*: Increased user base and influence in retail trading.
+10. **Netflix Inc. (NFLX) -3.55%**
+    - *Why:* Subscriber growth concerns amid increased competition.
+    - **Buzz:** -25% mentions on TikTok, showing heightened anxiety about future content strategy and competition with newer streaming platforms.
 
-These stocks have garnered significant attention due to a combination of strong financial performance, strategic developments, and their status within online investment communities.
+*Note:* Price movements are based on Bloomberg Market News data from the past week. All information reflects sentiments and discussions from social platforms regarding the stocks' performance and their social temperature—hype, panic, or meme status.
