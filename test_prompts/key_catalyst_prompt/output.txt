@@ -17,50 +17,30 @@ Please note that the percentage changes are based on the stock prices as of Sept
 
 1. **Tesla Inc. (TSLA)** +2.44%
    - **Why**: New production milestones enhance investor optimism and social media buzz.
-   - **Buzz**: 5,600 mentions on X, highlighting excitement around new models.
-   - **Quick Stat**: P/E = 85.2 (market avg ~22).
 
 2. **Twitter Inc. (TWTR)** +1.08%
    - **Why**: Positive user growth reported, driving higher engagement.
-   - **Buzz**: 3,400 mentions on Reddit, users discussing user growth metrics.
-   - **Quick Stat**: P/E = 38.0 (market avg ~22).
 
 3. **Meta Platforms Inc. (META)** +0.87%
    - **Why**: Successful launch of new advertising tools fueling growth prospects.
-   - **Buzz**: 2,800 mentions across platforms as users share ad tool features.
-   - **Quick Stat**: P/E = 25.5 (market avg ~22).
 
 4. **Apple Inc. (AAPL)** +0.30%
    - **Why**: Anticipation builds around upcoming product announcements.
-   - **Buzz**: 3,200 mentions on TikTok, speculating on new device leaks.
-   - **Quick Stat**: P/E = 28.0 (market avg ~22).
 
 5. **Microsoft Corporation (MSFT)** +0.24%
    - **Why**: Strategic partnerships in gaming boost market sentiment.
-   - **Buzz**: 2,600 mentions on X, gamers discussing new collaborations.
-   - **Quick Stat**: P/E = 32.8 (market avg ~22).
 
 6. **Amazon.com Inc. (AMZN)** +0.44%
    - **Why**: Strong Prime Day sales reported, exceeding expectations.
-   - **Buzz**: 4,500 mentions on Reddit regarding sales impact.
-   - **Quick Stat**: P/E = 55.3 (market avg ~22).
 
 7. **NVIDIA Corporation (NVDA)** +0.30%
    - **Why**: Demand surge for AI-related graphics cards propels stock.
-   - **Buzz**: 6,000 mentions on TikTok, focused on AI advancements.
-   - **Quick Stat**: P/E = 42.7 (market avg ~22).
 
 8. **Netflix Inc. (NFLX)** +0.30%
    - **Why**: Content strategy transitions yield positive viewer engagement metrics.
-   - **Buzz**: 2,200 mentions on X discussing new shows gaining traction.
-   - **Quick Stat**: P/E = 35.0 (market avg ~22).
 
 9. **Alphabet Inc. (GOOGL)** +0.30%
    - **Why**: Advances in cloud services lead to optimistic growth forecasts.
-   - **Buzz**: 2,800 mentions on Reddit about new cloud innovations.
-   - **Quick Stat**: P/E = 21.9 (market avg ~22).
 
 10. **SPDR S&P 500 ETF Trust (SPY)** +0.30%
     - **Why**: General market optimism following broader economic indicators.
-    - **Buzz**: 3,100 mentions across platforms discussing market trends.
-    - **Quick Stat**: P/E = 20.5 (market avg ~22).

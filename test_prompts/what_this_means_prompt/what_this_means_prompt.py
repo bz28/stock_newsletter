@@ -26,7 +26,7 @@ response = client.responses.create(
             1. All information provided must be from the past day, including sources and stats.
             2. From only the information provided in {quick_stat_content}, create a 1 to 2 sentence plain-English takeaway that connects the catalyst, buzz, and stat into a conclusion.
             3. Title this section "What This Means"
-            5. Add this section to the existing format in {quick_stat_content}, where the format should be similar but not with the exact same information as:
+            4. Do not change the content in {quick_stat_content}, only add the new "Buzz" section to the existing content, where the format should be similar but not with the exact same information as:
                     1.  Nvidia (NVDA) +x%
                         Why: Earnings beat estimates by x percent on booming AI chip demand.
                         Buzz: +x% mentions on Reddit's r/stocks.

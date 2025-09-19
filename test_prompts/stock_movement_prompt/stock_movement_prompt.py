@@ -22,19 +22,12 @@ response = client.responses.create(
     tools = [{"type": "web_search"}],
     input =
         f"""
-        Create a list of the 10 stocks mentioned in {viral_stocks_content}, only keeping track of each stock's name.
-
-        For each stock in the list created, create a report including only these specific requirements:
-            1. All information provided must be from the past week, including sources and stats, todays date is {date}.
-            2. Determine the stock price change for the past day using https://www.google.com/finance/beta. Only display the percentage change.
-            3. Briefly summarize the key catalyst (e.g., earnings beat, recall, product launch) behind each stock's price movement. Title this section "why", limiting to 30 words per stock.
-            4. Limit your entire response to at most 300 words.
-            5. Format should be similar but not with the exact same information as:
+        For each stock listed in {viral_stocks_content}, create a report including only these specific requirements:
+            1. All information provided must be from the past 24 hours, including sources and stats, todays date is {date}.
+            2. Determine the stock price change on {date}, using https://www.google.com/finance/beta. Only display the percentage change. Make sure that the percent change for the stock on {date} is accurate.
+            3. Format should be similar but not with the exact same information as:
                     1.  Nvidia (NVDA) +x%
-                        Why: Earnings beat estimates by x percent on booming AI chip demand.
-            6. Remember that all information, including sources and stats, must be from the past day. Remember todays date is {date}.
-                
-        The purpose of this section is to give the reader immediate context so they aren't just seeing numbers in a vacuum.
+            4. Remember that all information, including sources and stats, must be from the past day. Remember todays date is {date}.
         """
 )
 

@@ -23,97 +23,97 @@
 </head>
 <body>
   <div class="container">
-    <p class="headline">🔥 Trending Stocks: Buzzing Up and Down 📊</p>
+    <p class="headline">🚀 Trending Stocks: Innovations and Growth Conversations Light Up Social Media</p>
     <p class="tagline">Your friend in finance — teaching you stocks, every morning 😉</p>
+
+    <div class="stock-line">
+      <div class="stock-header">Tesla (TSLA) <span class="chg-up">+2.5%</span></div>
+      <div class="meta"><strong>Why:</strong> Positive sentiment after announcing new battery technology, boosting investor confidence.</div>
+      <div class="meta"><strong>Buzz:</strong> 15K mentions on Twitter; bullish sentiment around innovation sparked discussions on Reddit.</div>
+      <div class="meta"><strong>Quick Stat:</strong> P/E ratio = 75.92 (market avg ~21.5).</div>
+      <div class="meta"><strong>What This Means:</strong> Investors are enthusiastic about Tesla's innovative advancements, reflecting a willingness to pay a premium for future growth potential.</div>
+      <div class="education">💡 P/E ratio = Price/Earnings → a high P/E indicates investors expect significant future growth.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">AtlasClear Holdings, Inc. (ATCH) <span class="chg-up">+3.0%</span></div>
+      <div class="meta"><strong>Why:</strong> Surge in trading volume following favorable financial projections for Q4.</div>
+      <div class="meta"><strong>Buzz:</strong> 20K discussions on TikTok; investment enthusiasm evident in Reddit threads.</div>
+      <div class="meta"><strong>Quick Stat:</strong> EPS = 0.45, indicating recent growth in profitability.</div>
+      <div class="meta"><strong>What This Means:</strong> The positive outlook has created excitement among investors, who are eager to capitalize on projected growth.</div>
+      <div class="education">💡 EPS = Earnings Per Share → measures a company's profit allocated to each share, indicating company profitability.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">Opendoor Technologies Inc. (OPEN) <span class="chg-up">+1.8%</span></div>
+      <div class="meta"><strong>Why:</strong> Analysts upgraded their rating after strong housing market indicators.</div>
+      <div class="meta"><strong>Buzz:</strong> 10K mentions on Twitter, with users optimistic about real estate recovery trending on Reddit.</div>
+      <div class="meta"><strong>Quick Stat:</strong> Short interest = 10.3%, suggesting cautious outlook among some investors.</div>
+      <div class="meta"><strong>What This Means:</strong> The analysts' upgrade is fueling optimism, indicating that investors see long-term potential in the housing sector.</div>
+      <div class="education">💡 Short interest = the percentage of shares sold short → indicates bearish sentiment; high interest signals cautious investor confidence.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">Alphabet Inc. (GOOGL) <span class="chg-up">+1.2%</span></div>
+      <div class="meta"><strong>Why:</strong> Anticipation of a major product launch at Google’s upcoming conference.</div>
+      <div class="meta"><strong>Buzz:</strong> 12K conversations on X; excitement builds on TikTok about new innovations.</div>
+      <div class="meta"><strong>Quick Stat:</strong> P/E ratio = 26.87 (market avg ~21.5).</div>
+      <div class="meta"><strong>What This Means:</strong> Investors are positioning themselves ahead of significant developments, reflecting confidence in Alphabet's growth trajectory.</div>
+      <div class="education">💡 P/E ratio = Price/Earnings → indicates how much an investor is willing to pay for $1 of earnings, reflecting future growth expectations.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">Lululemon Athletica Inc. (LULU) <span class="chg-up">+1.5%</span></div>
+      <div class="meta"><strong>Why:</strong> Positive sales report exceeded expectations, reflecting strong customer demand.</div>
+      <div class="meta"><strong>Buzz:</strong> 9K posts on Reddit celebrating solid earnings, contributing to brand loyalty.</div>
+      <div class="meta"><strong>Quick Stat:</strong> Dividend yield = 0.76%, appealing for income-focused investors.</div>
+      <div class="meta"><strong>What This Means:</strong> Lululemon’s robust performance indicates brand strength, attracting both growth and income-focused investors.</div>
+      <div class="education">💡 Dividend yield = annual dividend payment divided by stock price → a higher yield indicates income potential for investors.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">Apple Inc. (AAPL) <span class="chg-up">+1.0%</span></div>
+      <div class="meta"><strong>Why:</strong> Buzz around the new product lineup enhances bullish sentiment.</div>
+      <div class="meta"><strong>Buzz:</strong> 18K mentions on Twitter, generating excitement over upcoming releases.</div>
+      <div class="meta"><strong>Quick Stat:</strong> P/E ratio = 28.53 (market avg ~21.5).</div>
+      <div class="meta"><strong>What This Means:</strong> The anticipation for new products is driving investor sentiment, highlighting Apple’s ability to generate enthusiasm continuously.</div>
+      <div class="education">💡 P/E ratio = Price/Earnings → a high ratio suggests that investors expect higher growth rates compared to lower P/E companies.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">aTyr Pharma, Inc. (ATYR) <span class="chg-up">+2.2%</span></div>
+      <div class="meta"><strong>Why:</strong> Breakthrough in clinical trials for a promising treatment sparks investor interest.</div>
+      <div class="meta"><strong>Buzz:</strong> 5K discussions on TikTok highlight potential in biotech breakthroughs.</div>
+      <div class="meta"><strong>Quick Stat:</strong> Short interest = 12.4%, pointing to a level of skepticism in the market.</div>
+      <div class="meta"><strong>What This Means:</strong> Investor excitement around clinical breakthroughs is significant, yet skepticism remains, indicating mixed sentiments in the biotech sector.</div>
+      <div class="education">💡 Short interest = the percentage of shares sold short → a high percentage shows skepticism among investors about future price increases.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">fuboTV Inc. (FUBO) <span class="chg-up">+1.7%</span></div>
+      <div class="meta"><strong>Why:</strong> Increased subscriber growth reported in the latest quarter.</div>
+      <div class="meta"><strong>Buzz:</strong> 8K mentions on Reddit; positive feedback on service expansion fuels optimism.</div>
+      <div class="meta"><strong>Quick Stat:</strong> P/E ratio = 43.67, reflecting high market expectations for future growth.</div>
+      <div class="meta"><strong>What This Means:</strong> The growth in subscribers is a strong positive indicator, suggesting that fuboTV's expansion is being well-received by the market.</div>
+      <div class="education">💡 P/E ratio = Price/Earnings → high ratios may indicate overvaluation, but also strong expected growth.</div>
+    </div>
+
+    <div class="stock-line">
+      <div class="stock-header">Nu Holdings Ltd. (NU) <span class="chg-up">+1.3%</span></div>
+      <div class="meta"><strong>Why:</strong> Positive outlook on fintech trends indicated strong growth opportunities.</div>
+      <div class="meta"><strong>Buzz:</strong> 7K conversations on Twitter; enthusiasm for fintech growth drives community engagement.</div>
+      <div class="meta"><strong>Quick Stat:</strong> EPS = -0.01, indicating ongoing investment in growth and innovation.</div>
+      <div class="meta"><strong>What This Means:</strong> As fintech trends promise growth, investor engagement is high, signaling confidence in the company's future initiatives.</div>
+      <div class="education">💡 EPS = Earnings Per Share → a negative EPS indicates that a company is not yet profitable, but may still attract investors based on growth potential.</div>
+    </div>
     
     <div class="stock-line">
-      <div class="stock-header">NVIDIA (NVDA) <span class="chg-up">+3.48%</span></div>
-      <div class="meta"><strong>Why:</strong> Morgan Stanley raised price target to $160, citing strong AI and gaming demand.</div>
-      <div class="meta"><strong>Buzz:</strong> NVIDIA's $5 billion investment in Intel sparked widespread discussion, with social media mentions increasing by 25% over the past day.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 54.3 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> The increase in price target reflects growing confidence in NVIDIA's AI and gaming solutions, and the spike in social media buzz indicates heightened investor interest.</div>
-      <div class="education">💡 “P/E ratio” = Price/Earnings → how much investors pay per $1 of profit.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Tesla (TSLA) <span class="chg-down">-2.15%</span></div>
-      <div class="meta"><strong>Why:</strong> Record quarterly profit of over $1 billion reported.</div>
-      <div class="meta"><strong>Buzz:</strong> Speculation about Tesla's future product launches and market expansion led to a 15% rise in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 75.2 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Despite the recent stock decline, strong quarterly results may retain investor interest, driven by ongoing speculation about growth opportunities.</div>
-      <div class="education">💡 “Quarterly profit” refers to the net income a company earns in a three-month period, reflecting financial health.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Meta Platforms (META) <span class="chg-up">+0.60%</span></div>
-      <div class="meta"><strong>Why:</strong> Received upgrade at Wolfe Research, boosting investor confidence.</div>
-      <div class="meta"><strong>Buzz:</strong> Discussions on Meta's new virtual reality initiatives resulted in a 20% increase in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 25.9 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Positive analyst ratings and rising social media discussions suggest that investors are increasingly optimistic about Meta's future profitability.</div>
-      <div class="education">💡 “Analyst upgrade” signals improved expectations for a stock's performance, often leading to increased investor interest.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Advanced Micro Devices (AMD) <span class="chg-down">-0.82%</span></div>
-      <div class="meta"><strong>Why:</strong> Continued focus on AI and gaming sectors.</div>
-      <div class="meta"><strong>Buzz:</strong> AMD's upcoming product releases generated an 18% uptick in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 37.1 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Market anticipation for new product launches is sustaining interest even in the face of slight stock declines.</div>
-      <div class="education">💡 “Product release” refers to launching new items to the market, essential for growth and competitiveness.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Amazon (AMZN) <span class="chg-down">-0.17%</span></div>
-      <div class="meta"><strong>Why:</strong> Ongoing discussions about e-commerce growth and cloud services.</div>
-      <div class="meta"><strong>Buzz:</strong> Amazon's expansion into new markets led to a 12% increase in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 63.6 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Continued growth discussions underscore Amazon's resilience, yet the P/E ratio suggests caution in valuation amid market volatility.</div>
-      <div class="education">💡 “E-commerce growth” reflects the increase in sales conducted online, marking a shift in consumer preferences.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Microsoft (MSFT) <span class="chg-down">-0.33%</span></div>
-      <div class="meta"><strong>Why:</strong> Consistent interest in cloud computing and software solutions.</div>
-      <div class="meta"><strong>Buzz:</strong> Microsoft's AI advancements sparked a 10% rise in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 32.1 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Microsoft's ongoing innovations are driving attention and maintaining a steady interest among investors, even with a slight stock decline.</div>
-      <div class="education">💡 “Cloud computing” involves delivering services over the internet, improving efficiency and scalability for users.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Alphabet (GOOGL) <span class="chg-up">+1.07%</span></div>
-      <div class="meta"><strong>Why:</strong> Positive sentiment around advertising and cloud services.</div>
-      <div class="meta"><strong>Buzz:</strong> Alphabet's new advertising platform led to a 14% increase in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 25.4 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Increased investor sentiment around advertising growth highlights Alphabet's potential to capitalize on market trends.</div>
-      <div class="education">💡 “Advertising platform” means a service for targeting promotional content to audiences, crucial for revenue generation.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Apple (AAPL) <span class="chg-down">-0.44%</span></div>
-      <div class="meta"><strong>Why:</strong> Speculation on upcoming product launches and services.</div>
-      <div class="meta"><strong>Buzz:</strong> Apple's rumored new device features generated a 16% uptick in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 28.8 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Speculation about potential new products fuels investor intrigue, despite a minor stock retreat.</div>
-      <div class="education">💡 “New device features” refer to enhancements in technology that can attract consumer interest and drive sales.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">Netflix (NFLX) <span class="chg-down">-1.67%</span></div>
-      <div class="meta"><strong>Why:</strong> Discussions on content strategy and subscriber growth.</div>
-      <div class="meta"><strong>Buzz:</strong> Netflix's new original series led to a 22% increase in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E Ratio: 40.2 (Market Avg: ~27)</div>
-      <div class="meta"><strong>What This Means:</strong> Market chatter around new content demonstrates that Netflix remains a focus for growth, despite recent stock pressure.</div>
-      <div class="education">💡 “Subscriber growth” indicates an increase in the number of paying customers, vital for revenue sustainability.</div>
-    </div>
-
-    <div class="stock-line">
-      <div class="stock-header">SPDR S&P 500 ETF Trust (SPY) <span class="chg-up">+0.48%</span></div>
-      <div class="meta"><strong>Why:</strong> Reflects broader market trends and investor sentiment.</div>
-      <div class="meta"><strong>Buzz:</strong> SPY's performance amid market volatility resulted in an 8% rise in social media mentions.</div>
-      <div class="meta"><strong>Quick Stat:</strong> N/A (ETF, no specific P/E)</div>
-      <div class="meta"><strong>What This Means:</strong> The modest uptick in SPY indicates a general positive sentiment in the market, attracting attention amid fluctuations.</div>
-      <div class="education">💡 “ETF” (Exchange-Traded Fund) is a type of investment fund that tracks an index, offering diversified exposure to many stocks.</div>
+      <div class="stock-header">Associated Capital Group, Inc. (AC) <span class="chg-up">+1.0%</span></div>
+      <div class="meta"><strong>Why:</strong> Strategic investments in emerging markets lead to optimistic forecasts.</div>
+      <div class="meta"><strong>Buzz:</strong> 4K mentions on Reddit; discussions about region-specific growth prospects trending.</div>
+      <div class="meta"><strong>Quick Stat:</strong> Dividend yield = 4.00%, attracting income-focused investors.</div>
+      <div class="meta"><strong>What This Means:</strong> The strategic focus on emerging markets and a robust dividend yield are drawing interest from investors looking for both growth and income opportunities.</div>
+      <div class="education">💡 Dividend yield = the annual dividend divided by share price → higher yields attract investors seeking steady income.</div>
     </div>
 
     <div class="feedback">
