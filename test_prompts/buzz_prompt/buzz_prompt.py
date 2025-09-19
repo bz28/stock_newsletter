@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 import os 
 from openai import OpenAI
+import datetime
 
 # load API keys
 load_dotenv()
@@ -14,6 +15,8 @@ file_path = "test_prompts/stock_movement_prompt/output.txt"
 with open(file_path, "r", encoding="utf-8") as f:
     stock_movement_content = f.read()
 
+date = datetime.date.today()
+
 # prompts
 response = client.responses.create(
     model="gpt-4o-mini",
@@ -23,18 +26,16 @@ response = client.responses.create(
         Create a list of the 10 stocks mentioned in {stock_movement_content}, only keeping track of each stock's name.
 
         For each stock in the list created, create a report including only these specific requirements:
-            1. All information provided must be from the past week, including sources and stats.
-            2. Discuss cultural or sentiment signals from chatter on Reddit, Twitter/X, TikTok, Stocktwits.
-            3. Include social mention counts.
+            1. All information provided must be from the past day, including sources and stats.
+            2. Summarize the most important cultural or sentiment signals from chatter on social media like Reddit, Twitter/X, and TikTok, including social mention counts, limiting to 50 words.
             4. Title this section "Buzz"
             5. Add this section to the existing format in {stock_movement_content}, where the format should be similar but not with the exact same information as:
-                    1.  Nvidia (NVDA) +6.2%
-                        Why: Earnings beat estimates by 12 percent on booming AI chip demand.
-                        Buzz: +40% mentions on Reddit's r/stocks.
-            6. Remember that all information, including sources and stats, must be from the past week.
+                    1.  Nvidia (NVDA) +x%
+                        Why: Earnings beat estimates by x percent on booming AI chip demand.
+                        Buzz: +x% mentions on Reddit's r/stocks.
+            6. Remember that all information, including sources and stats, must be from the past day. Remember todays date is {date}.
         
         The purpose of this section is to show the social temperature of the stock — hype, panic, or meme status.
-
         """
 )
 

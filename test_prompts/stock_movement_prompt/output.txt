@@ -1,33 +1,43 @@
-Based on recent discussions across TikTok, Reddit, and X (formerly Twitter), here are the top 10 trending stocks from the past week, along with their price movements and key catalysts:
+Here are the top 10 most viral stocks in the past 24 hours across social media platforms, along with their recent stock price changes and key catalysts:
 
-1. **Tesla Inc. (TSLA) +6.06%**
-   - *Why:* Strong earnings report and Hertz's order of 100,000 vehicles.
+1. **NVIDIA Corporation (NVDA)**
+   - Price Change: +3.48%
+   - **Why:** Announced a $5 billion investment in Intel, signaling strategic support for the chipmaker. ([reuters.com](https://www.reuters.com/world/asia-pacific/view-nvidias-5-billion-bet-intel-2025-09-18/?utm_source=openai))
 
-2. **NVIDIA Corporation (NVDA) +0.10%**
-   - *Why:* CEO's decision to halt share sales boosts investor confidence.
+2. **Tesla, Inc. (TSLA)**
+   - Price Change: -2.15%
+   - **Why:** CEO Elon Musk purchased approximately $1 billion in company stock, indicating strong confidence. ([apnews.com](https://apnews.com/article/12a418d06e555f7a790ebfc191643cd4?utm_source=openai))
 
-3. **C3.ai, Inc. (AI) +15.52%**
-   - *Why:* Increased adoption of AI solutions across industries.
+3. **C3.ai, Inc. (AI)**
+   - Price Change: +4.55%
+   - **Why:** Continued growth in AI demand bolstered investor interest.
 
-4. **Advanced Micro Devices, Inc. (AMD) -2.45%**
-   - *Why:* Anticipation of upcoming earnings report.
+4. **Microsoft Corporation (MSFT)**
+   - Price Change: -0.33%
+   - **Why:** Awaiting Federal Reserve's interest rate decision amid market uncertainty. ([reuters.com](https://www.reuters.com/sustainability/sustainable-finance-reporting/wall-st-mixed-ahead-feds-rate-decision-nvidia-slips-2025-09-17/?utm_source=openai))
 
-5. **Meta Platforms, Inc. (META) -0.14%**
-   - *Why:* Exploring over $10 billion investment in Scale AI.
+5. **Meta Platforms, Inc. (META)**
+   - Price Change: +0.60%
+   - **Why:** Positive market sentiment following recent product announcements.
 
-6. **Apple Inc. (AAPL) +1.55%**
-   - *Why:* Announced Siri AI upgrade slated for Spring 2026.
+6. **Marathon Digital Holdings, Inc. (MARA)**
+   - Price Change: +6.57%
+   - **Why:** Surge in cryptocurrency prices boosted mining operations.
 
-7. **Amazon.com, Inc. (AMZN) -0.22%**
-   - *Why:* Ongoing expansion into new markets and services.
+7. **Riot Platforms, Inc. (RIOT)**
+   - Price Change: -0.60%
+   - **Why:** Market volatility in cryptocurrency affected mining stocks.
 
-8. **Microsoft Corporation (MSFT) +0.13%**
-   - *Why:* Continued growth in cloud computing and software services.
+8. **Advanced Micro Devices, Inc. (AMD)**
+   - Price Change: -0.82%
+   - **Why:** Facing increased competition in the semiconductor industry.
 
-9. **Alphabet Inc. (GOOGL) +0.51%**
-   - *Why:* Advancements in AI and search technologies.
+9. **Coinbase Global, Inc. (COIN)**
+   - Price Change: +7.01%
+   - **Why:** Rising cryptocurrency market activity increased trading volumes.
 
-10. **Netflix Inc. (NFLX) -3.55%**
-    - *Why:* Subscriber growth concerns amid increased competition.
+10. **Nikola Corporation (NKLA)**
+    - Price Change: -28.35%
+    - **Why:** Facing legal challenges and operational hurdles.
 
-*Note:* Price movements are based on Bloomberg Market News data from the past week.
+*Please note that stock prices are subject to rapid changes.*
