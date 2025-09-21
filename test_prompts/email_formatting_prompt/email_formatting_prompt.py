@@ -29,15 +29,16 @@ response = client.responses.create(
         1. Remove the headers of Market Movers (Winners) and (Losers), instead putting all information in 1 big section.
         2. Include all the information in {education_bite_context}
         3. Do not change any information in {education_bite_context}
-        3. Do not include any information that is not in {education_bite_context}
-        4. Replace the headline with a catchy short headline focused on the content in the buzz section in {education_bite_context}, similar to the headline used in the formatting in {email_formatting_template}
-        5. The output should only contain the html code
+        4. Do not include any information that is not in {education_bite_context}
+        5. Replace the headline with a catchy short headline focused on the content in the buzz section in {education_bite_context}, similar to the headline used in the formatting in {email_formatting_template}
+        6. Update the color scheme as you see fit best for an email
+        7. The output should only contain the html code, so start with <!DOCTYPE html> and end with </html>
         """
 )
 
 
 output_text = response.output_text.strip()
-with open("test_prompts/email_formatting_prompt/output.txt", "w", encoding="utf-8") as f:
+with open("test_prompts/email_formatting_prompt/output.html", "w", encoding="utf-8") as f:
     f.write(output_text)
 
 print("Email Formatting Output Generated")
