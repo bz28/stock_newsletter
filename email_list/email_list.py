@@ -6,6 +6,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
+from bs4 import BeautifulSoup
 
 SCOPES = ["https://www.googleapis.com/auth/gmail.send"]
 
@@ -105,6 +106,13 @@ def send_html_to_list(
                 time.sleep(2.0)
         time.sleep(pause_seconds)
 
+
+def extract_headline(html_path: str) -> str:
+    with open(html_path, "r", encoding="utf-8") as f:
+        soup = BeautifulSoup(f, "html.parser")
+    headline = soup.find("p", class_="headline")
+    return headline.get_text(strip=True) if headline else "Daily Newsletter"
+
 # ---------- Main ----------
 if __name__ == "__main__":
     service = get_gmail_service()
@@ -115,11 +123,16 @@ if __name__ == "__main__":
     except Exception:
         pass
 
+    html_path = "test_prompts/email_formatting_prompt/output.html"
+    subject = extract_headline(html_path)
+    recipients_path = "email_list/email_list.txt"
+
     send_html_to_list(
         service=service,
-        subject="🚀 SoFi's Buzz Booms with 1,500 Mentions on Twitter!", # need to update to scrape content
-        html_path="test_prompts/email_formatting_prompt/output.html",
-        recipients_path="email_list/email_list.txt", 
+        subject=subject,
+        html_path=html_path,
+        recipients_path=recipients_path, 
         sender=None,                      
         pause_seconds=0.5,
     )
+

@@ -6,123 +6,252 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>The Daily Move Newsletter</title>
   <style>
-    body { font-family: Arial, sans-serif; background: #f9fafb; margin: 0; color: #1f2937; line-height: 1.6; }
-    .container { max-width: 640px; margin: auto; background: #ffffff; padding: 24px; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
-    .headline { font-size: 1.8rem; font-weight: 900; margin-bottom: 10px; line-height: 1.3; color: #3b82f6; cursor: pointer; }
-    .headline:hover { color: #1e40af; }
-    .tagline { font-size: 1rem; color: #6b7280; margin: 12px 0 16px; text-align: center; }
-    .stock-line { border-top: 1px solid #e5e7eb; padding: 12px 0; }
-    .stock-header { display: flex; justify-content: space-between; font-weight: bold; font-size: 1rem; margin-bottom: 4px; }
-    .chg-up { color: #16a34a; }
-    .chg-down { color: #dc2626; }
-    .meta { font-size: 0.9rem; color: #4b5563; margin: 2px 0; }
-    .education { margin-top: 6px; background: #e5f3ff; color: #1f2937; border-left: 3px solid #3b82f6; padding: 8px 12px; font-size: 0.9rem; border-radius: 6px; font-weight: 500; }
-    .feedback { margin-top: 24px; text-align: center; font-size: 1rem; color: #6b7280; }
-    .feedback span { display: inline-block; margin: 6px 8px; font-size: 1.2rem; cursor: pointer; }
+    /* Safe, non-layout CSS kept here; critical layout is inline */
+    .headline { font-size: 28px; font-weight: 700; color: #4f46e5; margin: 0 0 12px 0; text-align: center; }
+    .tagline { font-size: 16px; color: #4b5563; margin: 0 0 20px 0; text-align: center; }
+    .group-title { font-size: 16px; font-weight: 700; color: #111827; margin: 20px 0 8px 0; }
+    .meta { font-size: 15px; color: #374151; line-height: 1.5; margin: 2px 0; }
+    .education { margin-top: 6px; background: #e0f2fe; color: #2563eb; border-left: 4px solid #3b82f6; padding: 10px 12px; font-size: 14px; border-radius: 5px; }
+    .feedback { text-align: center; font-size: 15px; color: #6b7280; }
+    a { color: #4f46e5; text-decoration: none; }
+    a:hover { text-decoration: underline; }
   </style>
 </head>
-<body>
-  <div class="container">
-    <p class="headline">🚀 SoFi's Buzz Booms with 1,500 Mentions on Twitter!</p>
-    <p class="tagline">Your friend in finance — teaching you stocks, every morning 😉</p>
+<body style="margin:0; padding:0; background:#e2e8f0; font-family: Arial, sans-serif; color:#1f2937;">
+  <!-- Full-width wrapper -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background:#e2e8f0;">
+    <tr>
+      <td align="center" style="padding:24px;">
+        <!-- Constrained container -->
+        <table role="presentation" width="640" cellspacing="0" cellpadding="0" border="0" style="background:#ffffff; border-radius:10px; box-shadow:0 4px 20px rgba(0,0,0,0.1);">
+          <tr>
+            <td style="padding:30px;">
+              
+              <!-- Header -->
+              <p class="headline">🚀 Tesla, Apple, and More: Stocks to Watch Today!</p>
+              <p class="tagline">Your friend in finance — teaching you stocks, every morning 😉</p>
 
-    <div class="stock-line">
-      <div class="stock-header">SoFi Technologies Inc. (SOFI) <span class="chg-up">+5.02%</span></div>
-      <div class="meta"><strong>Why:</strong> Announced record user growth in fintech platform. (sofi.com, 2025-09-18 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> High social engagement with 1,500 mentions on Twitter. Users optimistic about fintech expansion.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 117.12 (as of 2025-09-18; source: macrotrends.net).</div>
-      <div class="meta"><strong>What This Means:</strong> The substantial increase in user growth and high buzz on social media indicate a strong confidence in SoFi's future, though the high P/E ratio suggests that investors are expecting significant growth.</div>
-      <div class="education">💡 “P/E ratio” = Price/Earnings → how much investors pay per $1 of profit.</div>
-    </div>
+              <!-- Stocks Section -->
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
 
-    <div class="stock-line">
-      <div class="stock-header">Lemonade Inc. (LMND) <span class="chg-up">+6.42%</span></div>
-      <div class="meta"><strong>Why:</strong> Announced partnership with major financial institution for insurance. (lemonade.com, 2025-09-19 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Memes and positive sentiment on TikTok, with 800 mentions. Users excited about innovative partnerships.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E = negative (as of 2025-09-08; source: macrotrends.net).</div>
-      <div class="meta"><strong>What This Means:</strong> The optimistic buzz surrounding a new partnership is driving investor interest, though the negative P/E reflects uncertainty about profitability at this stage.</div>
-      <div class="education">💡 “Negative P/E” indicates that a company is not currently profitable, leading to investor caution regarding future earnings.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Tesla, Inc. (TSLA)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +2.17%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> Increased production forecast for Q4 amid strong orders. (tesla.com, 2025-09-17 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> High excitement on social media with Tesla memes trending, 15K mentions.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 70.5 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> Strong orders and production growth indicate robust demand, justifying the high P/E ratio as investors remain optimistic about Tesla’s future.</div>
+                    <div class="education">💡 The P/E ratio measures how much investors are willing to pay for $1 of earnings, indicating growth expectations.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Palantir Technologies Inc. (PLTR) <span class="chg-up">+3.02%</span></div>
-      <div class="meta"><strong>Why:</strong> Secured new government contract to enhance data analytics capabilities. (palantir.com, 2025-09-19 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Buzzing discussions on Reddit, 1,200 mentions. Growing interest in government tech advances.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 30.23 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> Securing a government contract increases Palantir's revenue potential, while the active discussions on Reddit reflect a community eager for advancements in government tech.</div>
-      <div class="education">💡 “Revenue potential” refers to the possibility of generating income from new contracts or sales, crucial for future growth expectations.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Apple Inc. (AAPL)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +3.16%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> New product launches exceed expectations, boosting sales. (apple.com, 2025-09-18 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> Positive sentiment with 20K social mentions focusing on new product excitement.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 30.28 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> Exceeding product expectations and customer excitement suggest a strong sales outlook, justifying Apple's premium valuation among investors.</div>
+                    <div class="education">💡 A higher P/E ratio can imply that investors expect future growth, but may also indicate overvaluation risks.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Amgen Inc. (AMGN) <span class="chg-up">+3.50%</span></div>
-      <div class="meta"><strong>Why:</strong> Positive Phase 3 trial results for new cholesterol medication. (amgen.com, 2025-09-17 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Strong enthusiasm on Twitter, with 600 mentions. Health breakthroughs trending among users.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 15.02 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> The promising trial results have spurred excitement in social media communities, and Amgen’s reasonable P/E indicates a potentially undervalued stock given its growth prospects.</div>
-      <div class="education">💡 “Valuation” refers to determining a stock's worth, often assessed through ratios like P/E to see if it's over or undervalued.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Palantir Technologies Inc. (PLTR)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +3.02%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> New government contracts positively impact stock performance. (palantir.com, 2025-09-19 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> Increasing interest, 8K mentions, dubbed as "the future of big data."</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 45.2 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> Securing government contracts reinforces Palantir's market position, leading to elevated investor confidence reflected in its high P/E ratio.</div>
+                    <div class="education">💡 The P/E ratio is crucial for assessing valuation, where a higher value can suggest anticipated earnings growth.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Johnson & Johnson (JNJ) <span class="chg-up">+1.17%</span></div>
-      <div class="meta"><strong>Why:</strong> Received approval for new cancer treatment, boosting outlook. (jnj.com, 2025-09-19 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Prominent discussions on health forums, 1,000 mentions. Excitement over medical advancements.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 17.66 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> The approval of an innovative cancer treatment has sparked considerable interest, positioning Johnson & Johnson well in the healthcare sector with a balanced P/E.</div>
-      <div class="education">💡 “Market outlook” reflects investor expectations for a company's performance, influenced by recent developments like product approvals.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Kenvue Inc. (KVUE)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +1.35%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> Positive sales growth reported in recent earnings call. (kenvue.com, 2025-09-19 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> Growing buzz, 6K mentions, perceived as a stable investment amid market shifts.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 18.7 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> Stable sales growth positions Kenvue as a reliable investment option, attracting investors seeking consistent performance amid volatility.</div>
+                    <div class="education">💡 A lower P/E ratio might attract value investors, as it suggests greater potential for price appreciation compared to higher-rated stocks.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Robinhood Markets Inc. (HOOD) <span class="chg-up">+3.09%</span></div>
-      <div class="meta"><strong>Why:</strong> Unveiled feature update enhancing trading experience. (robinhood.com, 2025-09-17 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Trending topic on Twitter with 700 mentions. Users eager for improved trading tools.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 46.21 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> The new trading features are garnering social media attention, indicating user interest, but the high P/E ratio suggests that investors are betting heavily on future growth.</div>
-      <div class="education">💡 “Feature update” signifies improvements made to a platform or service, aimed at enhancing user experience and attracting more users.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          NVIDIA Corporation (NVDA)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +0.25%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> Updated outlook reflects continued demand for AI products. (nvidia.com, 2025-09-17 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> Positive buzz with 12K mentions, highlighted as a tech leader.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 35.4 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> The ongoing demand for AI products validates NVIDIA’s growth strategy, supporting its premium valuation compared to industry standards.</div>
+                    <div class="education">💡 The P/E ratio indicates how much investors are willing to pay for a tech stock like NVIDIA, reflecting growth prospects in emerging sectors.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Zeta Global Holdings Corp. (ZETA) <span class="chg-up">+1.92%</span></div>
-      <div class="meta"><strong>Why:</strong> Reported strong quarterly earnings beating expectations. (zeta.com, 2025-09-18 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Positive feedback on social media, with 500 mentions. Investors optimistic about financial growth.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 19.19 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> Beating earnings expectations has generated positive sentiment online, and a reasonable P/E suggests that Zeta is maintaining solid growth potential without overvaluation.</div>
-      <div class="education">💡 “Earnings expectations” are forecasts regarding a company’s profitability, impacting stock performance based on actual results compared to predictions.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Alphabet Inc. (GOOGL)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +1.04%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> Received regulatory clearance for new advertising services. (reuters.com, 2025-09-19 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> 5K mentions, trending positively due to ad service expansion.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 18.42 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> Regulatory clearance enhances Alphabet's advertising prospects, reinforcing investor confidence in its fair valuation in the market.</div>
+                    <div class="education">💡 A well-balanced P/E ratio helps investors evaluate companies like Alphabet against industry averages for savvy investment decisions.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Salesforce Inc. (CRM) <span class="chg-up">+1.11%</span></div>
-      <div class="meta"><strong>Why:</strong> Celebrated 20% growth in customer base in recent earnings report. (salesforce.com, 2025-09-18 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Buzzing on LinkedIn, with 400 mentions. Professionals excited about CRM innovations.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 35.11 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> The 20% customer base growth has captured the attention of professionals, reflecting strong confidence in Salesforce's future, despite a higher-than-average P/E ratio.</div>
-      <div class="education">💡 “Customer base growth” indicates an increase in the number of users of a company’s products or services, crucial for future sales.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Bank of America Corporation (BAC)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +0.23%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> Minor increase in loan origination fees reported. (bofaml.com, 2025-09-17 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> 3K mentions, discussions about financial health and stability.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 12.3 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> A modest rise in fees reflects operational stability, likely appealing to risk-averse investors considering BAC's low valuation.</div>
+                    <div class="education">💡 Lower P/E ratios suggest more shareholder value, often making companies like Bank of America attractive to value-focused investors.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Microsoft Corporation (MSFT) <span class="chg-up">+1.87%</span></div>
-      <div class="meta"><strong>Why:</strong> Launched new AI capabilities within Microsoft Office suite. (microsoft.com, 2025-09-19 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Heated discussions on tech forums, 900 mentions. Users intrigued by AI advancements.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 28.88 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> The excitement around Microsoft’s AI innovations is evident in online discussions, with a solid P/E that indicates a healthy valuation relative to growth expectations.</div>
-      <div class="education">💡 “AI capabilities” refer to advanced features powered by artificial intelligence that enhance user functionality, reflecting tech advancements in products.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Amazon.com, Inc. (AMZN)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#16a34a; text-align:right; white-space:nowrap;">
+                          +0.10%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> Minor sales increase announced for Prime Day promotions. (amazon.com, 2025-09-17 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> Buzz around Prime Day success, 4K mentions focusing on consumer enthusiasm.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 60.2 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> The positive response to Prime Day hints at strong consumer engagement, though the elevated P/E reflects high growth expectations set by investors.</div>
+                    <div class="education">💡 High P/E values can signal market belief in long-term growth, but may also indicate higher risk if expectations are not met.</div>
+                  </td>
+                </tr>
 
-    <div class="stock-line">
-      <div class="stock-header">Hims & Hers Health Inc. (HIMS) <span class="chg-up">+2.87%</span></div>
-      <div class="meta"><strong>Why:</strong> Launched new telehealth service expanding into mental health. (hims.com, 2025-09-17 UTC)</div>
-      <div class="meta"><strong>Buzz:</strong> Growing chatter on wellness platforms with 300 mentions. Interest in mental health services increasing.</div>
-      <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 57.63 (as of 2025-09-19; source: finance.yahoo.com).</div>
-      <div class="meta"><strong>What This Means:</strong> Hims & Hers is tapping into a growing market for mental health services, attracting buzz online, although the high P/E indicates that investors may be pricing in significant future growth.</div>
-      <div class="education">💡 “Telehealth service” allows patients to access healthcare through digital platforms, increasing convenience and accessibility for mental health support.</div>
-    </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Ford Motor Company (F)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#dc2626; text-align:right; white-space:nowrap;">
+                          −0.98%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> Production issues reported impacting Q4 output. (ford.com, 2025-09-18 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> Concerned discussions, 2K mentions reflecting worries over reliability.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 8.5 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> Production delays create uncertainty around Ford's Q4 outlook, prompting investor caution expressed in its low valuation metrics.</div>
+                    <div class="education">💡 A low P/E ratio like Ford’s might indicate potential undervaluation, yet it can also reflect market concerns about future performance.</div>
+                  </td>
+                </tr>
 
-    <div class="feedback">
-      <p>How was this newsletter?</p>
-      <span>😍 Loved it</span>
-      <span>🙂 Satisfied</span>
-      <span>😮‍💨 Meh</span>
-    </div>
-  </div>
+                <tr>
+                  <td style="padding:12px 0;">
+                    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tr>
+                        <td style="font-weight:700; font-size:17px; color:#111827; text-align:left;">
+                          Meta Platforms, Inc. (META)
+                        </td>
+                        <td style="font-weight:700; font-size:17px; color:#dc2626; text-align:right; white-space:nowrap;">
+                          −0.24%
+                        </td>
+                      </tr>
+                    </table>
+                    <div class="meta"><strong>Why:</strong> User growth stagnation reported in latest earnings call. (bloomberg.com, 2025-09-18 UTC)</div>
+                    <div class="meta"><strong>Buzz:</strong> Negative sentiment prevalent with 10K mentions, memes about user decline.</div>
+                    <div class="meta"><strong>Quick Stat:</strong> P/E (ttm) = 25.95 (as of 2025-09-20; source: finance.yahoo.com).</div>
+                    <div class="meta"><strong>What This Means:</strong> Stagnant user growth raises concerns about Meta’s future profitability, making its current P/E seem elevated amidst investor apprehension.</div>
+                    <div class="education">💡 A P/E ratio above the market average indicates investor caution, often in response to growth or market sentiment challenges.</div>
+                  </td>
+                </tr>
+
+              </table>
+
+              <!-- Footer -->
+              <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-top:24px;">
+                <tr>
+                  <td class="feedback">
+                    <p style="margin:0 0 8px 0;">How was this newsletter?</p>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdg5fh8xNHfpQcksArIT2la8I60U6FCs8R83hG7jJPkRZzG8w/viewform">Give Feedback</a>
+                  </td>
+                </tr>
+              </table>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </body>
 </html>
 ```

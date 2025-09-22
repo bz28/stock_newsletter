@@ -26,8 +26,8 @@ Data freshness policy:
 - Fundamental/technical "Quick Stat" is acceptable if the source clearly shows a date within the last 12 months.
 - For short interest (which is biweekly), accept the latest published date.
 
-Allowed metrics (choose the first available in this order):
-1) P/E (ttm or forward) — if unprofitable, print "P/E = negative" and continue down the list
+Allowed metrics:
+1) P/E (ttm or forward) 
 2) EPS (ttm)
 3) Dividend yield (%)
 4) Short interest (% of float or shares short as % of float) — include the "as of" date

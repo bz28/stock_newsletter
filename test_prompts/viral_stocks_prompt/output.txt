@@ -1,25 +1,25 @@
-1. NVDA — NVIDIA Corporation
-2. PLTR — Palantir Technologies Inc.
-3. SOFI — SoFi Technologies Inc.
-4. HIMS — Hims & Hers Health Inc.
-5. AMD — Advanced Micro Devices Inc.
-6. OSCR — Oscar Health Inc.
-7. LMND — Lemonade Inc.
-8. SHOP — Shopify Inc.
-9. HOOD — Robinhood Markets Inc.
-10. ZETA — Zeta Global Holdings Corp.
-11. MSFT — Microsoft Corporation
-12. GS — The Goldman Sachs Group Inc.
-13. UNH — UnitedHealth Group Incorporated
-14. MCD — McDonald's Corporation
-15. MRK — Merck & Co. Inc.
-16. AMGN — Amgen Inc.
-17. JPM — JPMorgan Chase & Co.
-18. HD — The Home Depot Inc.
-19. V — Visa Inc.
-20. CAT — Caterpillar Inc.
-21. CRM — Salesforce Inc.
-22. HON — Honeywell International Inc.
-23. AXP — American Express Company
-24. PG — The Procter & Gamble Company
-25. JNJ — Johnson & Johnson
+1. OPEN — Opendoor Technologies Inc.
+2. NVDA — NVIDIA Corporation
+3. TSLA — Tesla, Inc.
+4. AAPL — Apple Inc.
+5. GOOGL — Alphabet Inc.
+6. META — Meta Platforms, Inc.
+7. AMZN — Amazon.com, Inc.
+8. PLTR — Palantir Technologies Inc.
+9. ZM — Zoom Video Communications, Inc.
+10. SNAP — Snap Inc.
+11. TSM — Taiwan Semiconductor Manufacturing Company Limited
+12. CSX — CSX Corporation
+13. NEOG — Neogen Corporation
+14. HPE — Hewlett Packard Enterprise Company
+15. F — Ford Motor Company
+16. BAC — Bank of America Corporation
+17. OPEN — Opendoor Technologies Inc.
+18. WMB — Williams Companies, Inc.
+19. MIR — Mirion Technologies, Inc.
+20. NEOG — Neogen Corporation
+21. CSX — CSX Corporation
+22. KVUE — Kenvue Inc.
+23. CMCSA — Comcast Corporation
+24. META — Meta Platforms, Inc.
+25. NVDA — NVIDIA Corporation

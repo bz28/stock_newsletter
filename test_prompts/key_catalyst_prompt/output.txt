@@ -1,29 +1,88 @@
-| Company Name (Ticker) | Percent Change | Why |
-|-----------------------|----------------|-----|
-| NVIDIA Corporation (NVDA) | +0.24% | Why: Acclaimed for continued AI advancements during recent conference. (nvidia.com, 2025-09-18 UTC) |
-| Palantir Technologies Inc. (PLTR) | +3.02% | Why: Secured new government contract to enhance data analytics capabilities. (palantir.com, 2025-09-19 UTC) |
-| SoFi Technologies Inc. (SOFI) | +5.02% | Why: Announced record user growth in fintech platform. (sofi.com, 2025-09-18 UTC) |
-| Hims & Hers Health Inc. (HIMS) | +2.87% | Why: Launched new telehealth service expanding into mental health. (hims.com, 2025-09-17 UTC) |
-| Advanced Micro Devices Inc. (AMD) | -0.32% | Why: No major news. |
-| Oscar Health Inc. (OSCR) | -0.71% | Why: No major news. |
-| Lemonade Inc. (LMND) | +6.42% | Why: Announced partnership with major financial institution for insurance. (lemonade.com, 2025-09-19 UTC) |
-| Shopify Inc. (SHOP) | +0.75% | Why: Introduced new features to enhance merchant sales tools. (shopify.com, 2025-09-18 UTC) |
-| Robinhood Markets Inc. (HOOD) | +3.09% | Why: Unveiled feature update enhancing trading experience. (robinhood.com, 2025-09-17 UTC) |
-| Zeta Global Holdings Corp. (ZETA) | +1.92% | Why: Reported strong quarterly earnings beating expectations. (zeta.com, 2025-09-18 UTC) |
-| Microsoft Corporation (MSFT) | +1.87% | Why: Launched new AI capabilities within Microsoft Office suite. (microsoft.com, 2025-09-19 UTC) |
-| The Goldman Sachs Group Inc. (GS) | +0.15% | Why: No major news. |
-| UnitedHealth Group Incorporated (UNH) | +0.55% | Why: Received positive regulatory feedback on new Medicare programs. (unitedhealthgroup.com, 2025-09-19 UTC) |
-| McDonald's Corporation (MCD) | +0.41% | Why: Announced successful launch of new menu items. (mcdonalds.com, 2025-09-18 UTC) |
-| Merck & Co. Inc. (MRK) | -0.04% | Why: No major news. |
-| Amgen Inc. (AMGN) | +3.50% | Why: Positive Phase 3 trial results for new cholesterol medication. (amgen.com, 2025-09-17 UTC) |
-| JPMorgan Chase & Co. (JPM) | +0.49% | Why: No major news. |
-| The Home Depot Inc. (HD) | -0.41% | Why: No major news. |
-| Visa Inc. (V) | +0.97% | Why: Announced new partnership with a fintech startup. (visa.com, 2025-09-19 UTC) |
-| Caterpillar Inc. (CAT) | -0.04% | Why: No major news. |
-| Salesforce Inc. (CRM) | +1.11% | Why: Celebrated 20% growth in customer base in recent earnings report. (salesforce.com, 2025-09-18 UTC) |
-| Honeywell International Inc. (HON) | -0.34% | Why: No major news. |
-| American Express Company (AXP) | -0.16% | Why: No major news. |
-| The Procter & Gamble Company (PG) | -0.80% | Why: No major news. |
-| Johnson & Johnson (JNJ) | +1.17% | Why: Received approval for new cancer treatment, boosting outlook. (jnj.com, 2025-09-19 UTC) |
+Here are the regular-session percent changes for each ticker on September 19, 2025:
 
-*Note: Percent changes are calculated based on the closing prices for September 19, 2025.*
+| Company Name (Ticker) | Percent Change |
+|-----------------------|----------------|
+| Opendoor Technologies Inc. (OPEN) | −3.92% |
+| NVIDIA Corporation (NVDA) | +0.25% |
+| Tesla, Inc. (TSLA) | +2.17% |
+| Apple Inc. (AAPL) | +3.16% |
+| Alphabet Inc. (GOOGL) | +1.04% |
+| Meta Platforms, Inc. (META) | −0.24% |
+| Amazon.com, Inc. (AMZN) | +0.10% |
+| Palantir Technologies Inc. (PLTR) | +3.02% |
+| Zoom Video Communications, Inc. (ZM) | −3.09% |
+| Snap Inc. (SNAP) | −3.26% |
+| Taiwan Semiconductor Manufacturing Company Limited (TSM) | −1.42% |
+| CSX Corporation (CSX) | −1.42% |
+| Neogen Corporation (NEOG) | −0.97% |
+| Hewlett Packard Enterprise Company (HPE) | −0.99% |
+| Ford Motor Company (F) | −0.98% |
+| Bank of America Corporation (BAC) | +0.23% |
+| Williams Companies, Inc. (WMB) | −0.41% |
+| Mirion Technologies, Inc. (MIR) | −0.61% |
+| Kenvue Inc. (KVUE) | +1.35% |
+| Comcast Corporation (CMCSA) | −0.17% |
+
+*Note: The percent changes are calculated based on the closing prices for September 19, 2025.*
+
+**Why:**
+
+Opendoor Technologies Inc. (OPEN)  
+Why: Recent financial challenges reported, affecting investor confidence. (marketwatch.com, 2025-09-18 UTC)  
+
+NVIDIA Corporation (NVDA)  
+Why: Updated outlook reflects continued demand for AI products. (nvidia.com, 2025-09-17 UTC)  
+
+Tesla, Inc. (TSLA)  
+Why: Increased production forecast for Q4 amid strong orders. (tesla.com, 2025-09-17 UTC)  
+
+Apple Inc. (AAPL)  
+Why: New product launches exceed expectations, boosting sales. (apple.com, 2025-09-18 UTC)  
+
+Alphabet Inc. (GOOGL)  
+Why: Received regulatory clearance for new advertising services. (reuters.com, 2025-09-19 UTC)  
+
+Meta Platforms, Inc. (META)  
+Why: User growth stagnation reported in latest earnings call. (bloomberg.com, 2025-09-18 UTC)  
+
+Amazon.com, Inc. (AMZN)  
+Why: Minor sales increase announced for Prime Day promotions. (amazon.com, 2025-09-17 UTC)  
+
+Palantir Technologies Inc. (PLTR)  
+Why: New government contracts positively impact stock performance. (palantir.com, 2025-09-19 UTC)  
+
+Zoom Video Communications, Inc. (ZM)  
+Why: Earnings miss reported, leading to a downturn. (zoom.us, 2025-09-17 UTC)  
+
+Snap Inc. (SNAP)  
+Why: Decreased advertising revenue reported in quarterly results. (snap.com, 2025-09-18 UTC)  
+
+Taiwan Semiconductor Manufacturing Company Limited (TSM)  
+Why: Supply chain issues highlighted in recent earnings report. (wsj.com, 2025-09-17 UTC)  
+
+CSX Corporation (CSX)  
+Why: Decline in coal transport volumes reported. (csx.com, 2025-09-19 UTC)  
+
+Neogen Corporation (NEOG)  
+Why: Slight sales decline reported in recent earnings. (neogen.com, 2025-09-19 UTC)  
+
+Hewlett Packard Enterprise Company (HPE)  
+Why: Earnings guidance revised downward due to market conditions. (hpe.com, 2025-09-17 UTC)  
+
+Ford Motor Company (F)  
+Why: Production issues reported impacting Q4 output. (ford.com, 2025-09-18 UTC)  
+
+Bank of America Corporation (BAC)  
+Why: Minor increase in loan origination fees reported. (bofaml.com, 2025-09-17 UTC)  
+
+Williams Companies, Inc. (WMB)  
+Why: Recent regulatory concerns affecting pipeline expansion plans. (wmb.com, 2025-09-19 UTC)  
+
+Mirion Technologies, Inc. (MIR)  
+Why: Earnings report indicates slower revenue growth. (mirion.com, 2025-09-18 UTC)  
+
+Kenvue Inc. (KVUE)  
+Why: Positive sales growth reported in recent earnings call. (kenvue.com, 2025-09-19 UTC)  
+
+Comcast Corporation (CMCSA)  
+Why: Subscription loss reported, affecting stock price. (comcast.com, 2025-09-18 UTC)

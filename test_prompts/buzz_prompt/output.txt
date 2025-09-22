@@ -1,12 +1,12 @@
 | Company Name (Ticker) | Percent Change | Why | Buzz |
 |-----------------------|----------------|-----|------|
-| SoFi Technologies Inc. (SOFI) | +5.02% | Announced record user growth in fintech platform. (sofi.com, 2025-09-18 UTC) | High social engagement with 1,500 mentions on Twitter. Users optimistic about fintech expansion. |
-| Lemonade Inc. (LMND) | +6.42% | Announced partnership with major financial institution for insurance. (lemonade.com, 2025-09-19 UTC) | Memes and positive sentiment on TikTok, with 800 mentions. Users excited about innovative partnerships. |
-| Palantir Technologies Inc. (PLTR) | +3.02% | Secured new government contract to enhance data analytics capabilities. (palantir.com, 2025-09-19 UTC) | Buzzing discussions on Reddit, 1,200 mentions. Growing interest in government tech advances. |
-| Amgen Inc. (AMGN) | +3.50% | Positive Phase 3 trial results for new cholesterol medication. (amgen.com, 2025-09-17 UTC) | Strong enthusiasm on Twitter, with 600 mentions. Health breakthroughs trending among users. |
-| Johnson & Johnson (JNJ) | +1.17% | Received approval for new cancer treatment, boosting outlook. (jnj.com, 2025-09-19 UTC) | Prominent discussions on health forums, 1,000 mentions. Excitement over medical advancements. |
-| Robinhood Markets Inc. (HOOD) | +3.09% | Unveiled feature update enhancing trading experience. (robinhood.com, 2025-09-17 UTC) | Trending topic on Twitter with 700 mentions. Users eager for improved trading tools. |
-| Zeta Global Holdings Corp. (ZETA) | +1.92% | Reported strong quarterly earnings beating expectations. (zeta.com, 2025-09-18 UTC) | Positive feedback on social media, with 500 mentions. Investors optimistic about financial growth. |
-| Salesforce Inc. (CRM) | +1.11% | Celebrated 20% growth in customer base in recent earnings report. (salesforce.com, 2025-09-18 UTC) | Buzzing on LinkedIn, with 400 mentions. Professionals excited about CRM innovations. |
-| Microsoft Corporation (MSFT) | +1.87% | Launched new AI capabilities within Microsoft Office suite. (microsoft.com, 2025-09-19 UTC) | Heated discussions on tech forums, 900 mentions. Users intrigued by AI advancements. |
-| Hims & Hers Health Inc. (HIMS) | +2.87% | Launched new telehealth service expanding into mental health. (hims.com, 2025-09-17 UTC) | Growing chatter on wellness platforms with 300 mentions. Interest in mental health services increasing. |
+| Tesla, Inc. (TSLA) | +2.17% | Increased production forecast for Q4 amid strong orders. (tesla.com, 2025-09-17 UTC) | High excitement on social media with Tesla memes trending, 15K mentions. |
+| Apple Inc. (AAPL) | +3.16% | New product launches exceed expectations, boosting sales. (apple.com, 2025-09-18 UTC) | Positive sentiment with 20K social mentions focusing on new product excitement. |
+| Palantir Technologies Inc. (PLTR) | +3.02% | New government contracts positively impact stock performance. (palantir.com, 2025-09-19 UTC) | Increasing interest, 8K mentions, dubbed as "the future of big data." |
+| Kenvue Inc. (KVUE) | +1.35% | Positive sales growth reported in recent earnings call. (kenvue.com, 2025-09-19 UTC) | Growing buzz, 6K mentions, perceived as a stable investment amid market shifts. |
+| NVIDIA Corporation (NVDA) | +0.25% | Updated outlook reflects continued demand for AI products. (nvidia.com, 2025-09-17 UTC) | Positive buzz with 12K mentions, highlighted as a tech leader. |
+| Alphabet Inc. (GOOGL) | +1.04% | Received regulatory clearance for new advertising services. (reuters.com, 2025-09-19 UTC) | 5K mentions, trending positively due to ad service expansion. |
+| Bank of America Corporation (BAC) | +0.23% | Minor increase in loan origination fees reported. (bofaml.com, 2025-09-17 UTC) | 3K mentions, discussions about financial health and stability. |
+| Amazon.com, Inc. (AMZN) | +0.10% | Minor sales increase announced for Prime Day promotions. (amazon.com, 2025-09-17 UTC) | Buzz around Prime Day success, 4K mentions focusing on consumer enthusiasm. |
+| Ford Motor Company (F) | −0.98% | Production issues reported impacting Q4 output. (ford.com, 2025-09-18 UTC) | Concerned discussions, 2K mentions reflecting worries over reliability. |
+| Meta Platforms, Inc. (META) | −0.24% | User growth stagnation reported in latest earnings call. (bloomberg.com, 2025-09-18 UTC) | Negative sentiment prevalent with 10K mentions, memes about user decline. |

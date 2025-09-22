@@ -11,9 +11,9 @@ gpt_api_key = os.environ.get('GPT_API_KEY')
 client = OpenAI(api_key = gpt_api_key)
 
 # read stock movement output
-file_path = "test_prompts/buzz_prompt/output.txt"
+file_path = "test_prompts/education_bite_prompt/output.txt"
 with open(file_path, "r", encoding="utf-8") as f:
-    buzz_content = f.read()
+    newsletter_content = f.read()
 
 date = datetime.date.today()
 
@@ -23,8 +23,9 @@ response = client.responses.create(
     tools = [{"type": "web_search"}],
     input =
         f"""
-        Task: Verify all the information in {buzz_content} is accurate.
-        Output: What is accurate, inacurrate, or not certain.
+        Task: Verify all the information in {newsletter_content} is accurate.
+        Resources: Use web search to verify the information.
+        Output: What is accurate, inacurrate, or not certain, evaluating section by section.
         """
 )
 

@@ -2,30 +2,25 @@ Here are the regular-session percent changes for each ticker on September 19, 20
 
 | Company Name (Ticker) | Percent Change |
 |-----------------------|----------------|
-| NVIDIA Corporation (NVDA) | +0.24% |
+| Opendoor Technologies Inc. (OPEN) | −3.92% |
+| NVIDIA Corporation (NVDA) | +0.25% |
+| Tesla, Inc. (TSLA) | +2.17% |
+| Apple Inc. (AAPL) | +3.16% |
+| Alphabet Inc. (GOOGL) | +1.04% |
+| Meta Platforms, Inc. (META) | −0.24% |
+| Amazon.com, Inc. (AMZN) | +0.10% |
 | Palantir Technologies Inc. (PLTR) | +3.02% |
-| SoFi Technologies Inc. (SOFI) | +5.02% |
-| Hims & Hers Health Inc. (HIMS) | +2.87% |
-| Advanced Micro Devices Inc. (AMD) | -0.32% |
-| Oscar Health Inc. (OSCR) | -0.71% |
-| Lemonade Inc. (LMND) | +6.42% |
-| Shopify Inc. (SHOP) | +0.75% |
-| Robinhood Markets Inc. (HOOD) | +3.09% |
-| Zeta Global Holdings Corp. (ZETA) | +1.92% |
-| Microsoft Corporation (MSFT) | +1.87% |
-| The Goldman Sachs Group Inc. (GS) | +0.15% |
-| UnitedHealth Group Incorporated (UNH) | +0.55% |
-| McDonald's Corporation (MCD) | +0.41% |
-| Merck & Co. Inc. (MRK) | -0.04% |
-| Amgen Inc. (AMGN) | +3.50% |
-| JPMorgan Chase & Co. (JPM) | +0.49% |
-| The Home Depot Inc. (HD) | -0.41% |
-| Visa Inc. (V) | +0.97% |
-| Caterpillar Inc. (CAT) | -0.04% |
-| Salesforce Inc. (CRM) | +1.11% |
-| Honeywell International Inc. (HON) | -0.34% |
-| American Express Company (AXP) | -0.16% |
-| The Procter & Gamble Company (PG) | -0.80% |
-| Johnson & Johnson (JNJ) | +1.17% |
+| Zoom Video Communications, Inc. (ZM) | −3.09% |
+| Snap Inc. (SNAP) | −3.26% |
+| Taiwan Semiconductor Manufacturing Company Limited (TSM) | −1.42% |
+| CSX Corporation (CSX) | −1.42% |
+| Neogen Corporation (NEOG) | −0.97% |
+| Hewlett Packard Enterprise Company (HPE) | −0.99% |
+| Ford Motor Company (F) | −0.98% |
+| Bank of America Corporation (BAC) | +0.23% |
+| Williams Companies, Inc. (WMB) | −0.41% |
+| Mirion Technologies, Inc. (MIR) | −0.61% |
+| Kenvue Inc. (KVUE) | +1.35% |
+| Comcast Corporation (CMCSA) | −0.17% |
 
-*Note: Percent changes are calculated based on the closing prices for September 19, 2025.*
+*Note: The percent changes are calculated based on the closing prices for September 19, 2025.*

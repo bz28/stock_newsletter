@@ -30,13 +30,15 @@ response = client.responses.create(
         2. Include all the information in {education_bite_context}
         3. Do not change any information in {education_bite_context}
         4. Do not include any information that is not in {education_bite_context}
-        5. Replace the headline with a catchy short headline focused on the content in the buzz section in {education_bite_context}, specifically social media... similar to these:
+        5. The headline should be catchy and short, namedropping and mentioning 2-3 stocks in {education_bite_context}, focused on the content in the buzz section in {education_bite_context}, specifically social media... similar to the format in these:
             - 👀 Tesla’s Mentions Jump 50%, NVIDIA AI Buzz +35%, Netflix Chatter Drops 25%
             - 👀 Tesla surges, NVIDIA steady, Netflix slides — here’s what matters today
             - TikTok Can’t Stop Talking About Tesla, NVIDIA’s AI Mentions Spike, Netflix Fades — Here’s Why
             - Tesla’s Blowing Up on TikTok, NVIDIA’s Hot, Netflix Not
-        6. Update the color scheme as you see fit best for an email
-        7. The output should only contain the html code
+        6. The newsletter must contain and dicuss all 10 stocks
+        7. Must include all 5 sections of why, buzz, quick stat, what this means, and education bite
+        7. Add this hyperlinked feedback form to the bottom of the email: https://docs.google.com/forms/d/e/1FAIpQLSdg5fh8xNHfpQcksArIT2la8I60U6FCs8R83hG7jJPkRZzG8w/viewform .
+        8. The output should only contain the html code
         """
 )
 

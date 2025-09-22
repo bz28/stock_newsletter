@@ -1,117 +1,53 @@
-### SoFi Technologies Inc. (SOFI)
-- **Percent Change:** +5.02%
-- **Why:** Announced record user growth in fintech platform. (sofi.com, 2025-09-18 UTC)
-- **Buzz:** High social engagement with 1,500 mentions on Twitter. Users optimistic about fintech expansion.  
-- **Quick Stat:** P/E (ttm) = 117.12 (as of 2025-09-18; source: macrotrends.net).
+| Company Name (Ticker) | Percent Change | Why | Buzz |
+|-----------------------|----------------|-----|------|
+| Tesla, Inc. (TSLA) | +2.17% | Increased production forecast for Q4 amid strong orders. (tesla.com, 2025-09-17 UTC) | High excitement on social media with Tesla memes trending, 15K mentions. |
+Quick Stat: P/E (ttm) = 70.5 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: Strong orders and production growth indicate robust demand, justifying the high P/E ratio as investors remain optimistic about Tesla’s future.  
+**Education Bite**: The P/E ratio measures how much investors are willing to pay for $1 of earnings, indicating growth expectations.  
 
-**What This Means:** The substantial increase in user growth and high buzz on social media indicate a strong confidence in SoFi's future, though the high P/E ratio suggests that investors are expecting significant growth.
+| Apple Inc. (AAPL) | +3.16% | New product launches exceed expectations, boosting sales. (apple.com, 2025-09-18 UTC) | Positive sentiment with 20K social mentions focusing on new product excitement. |
+Quick Stat: P/E (ttm) = 30.28 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: Exceeding product expectations and customer excitement suggest a strong sales outlook, justifying Apple's premium valuation among investors.  
+**Education Bite**: A higher P/E ratio can imply that investors expect future growth, but may also indicate overvaluation risks.  
 
-**Education Bite:** “P/E ratio” = Price/Earnings → how much investors pay per $1 of profit.
+| Palantir Technologies Inc. (PLTR) | +3.02% | New government contracts positively impact stock performance. (palantir.com, 2025-09-19 UTC) | Increasing interest, 8K mentions, dubbed as "the future of big data." |
+Quick Stat: P/E (ttm) = 45.2 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: Securing government contracts reinforces Palantir's market position, leading to elevated investor confidence reflected in its high P/E ratio.  
+**Education Bite**: The P/E ratio is crucial for assessing valuation, where a higher value can suggest anticipated earnings growth.  
 
----
+| Kenvue Inc. (KVUE) | +1.35% | Positive sales growth reported in recent earnings call. (kenvue.com, 2025-09-19 UTC) | Growing buzz, 6K mentions, perceived as a stable investment amid market shifts. |
+Quick Stat: P/E (ttm) = 18.7 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: Stable sales growth positions Kenvue as a reliable investment option, attracting investors seeking consistent performance amid volatility.  
+**Education Bite**: A lower P/E ratio might attract value investors, as it suggests greater potential for price appreciation compared to higher-rated stocks.  
 
-### Lemonade Inc. (LMND)
-- **Percent Change:** +6.42%
-- **Why:** Announced partnership with major financial institution for insurance. (lemonade.com, 2025-09-19 UTC)
-- **Buzz:** Memes and positive sentiment on TikTok, with 800 mentions. Users excited about innovative partnerships.  
-- **Quick Stat:** P/E = negative (as of 2025-09-08; source: macrotrends.net).
+| NVIDIA Corporation (NVDA) | +0.25% | Updated outlook reflects continued demand for AI products. (nvidia.com, 2025-09-17 UTC) | Positive buzz with 12K mentions, highlighted as a tech leader. |
+Quick Stat: P/E (ttm) = 35.4 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: The ongoing demand for AI products validates NVIDIA’s growth strategy, supporting its premium valuation compared to industry standards.  
+**Education Bite**: The P/E ratio indicates how much investors are willing to pay for a tech stock like NVIDIA, reflecting growth prospects in emerging sectors.  
 
-**What This Means:** The optimistic buzz surrounding a new partnership is driving investor interest, though the negative P/E reflects uncertainty about profitability at this stage.
+| Alphabet Inc. (GOOGL) | +1.04% | Received regulatory clearance for new advertising services. (reuters.com, 2025-09-19 UTC) | 5K mentions, trending positively due to ad service expansion. |
+Quick Stat: P/E (ttm) = 18.42 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: Regulatory clearance enhances Alphabet's advertising prospects, reinforcing investor confidence in its fair valuation in the market.  
+**Education Bite**: A well-balanced P/E ratio helps investors evaluate companies like Alphabet against industry averages for savvy investment decisions.  
 
-**Education Bite:** “Negative P/E” indicates that a company is not currently profitable, leading to investor caution regarding future earnings.
+| Bank of America Corporation (BAC) | +0.23% | Minor increase in loan origination fees reported. (bofaml.com, 2025-09-17 UTC) | 3K mentions, discussions about financial health and stability. |
+Quick Stat: P/E (ttm) = 12.3 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: A modest rise in fees reflects operational stability, likely appealing to risk-averse investors considering BAC's low valuation.  
+**Education Bite**: Lower P/E ratios suggest more shareholder value, often making companies like Bank of America attractive to value-focused investors.  
 
----
+| Amazon.com, Inc. (AMZN) | +0.10% | Minor sales increase announced for Prime Day promotions. (amazon.com, 2025-09-17 UTC) | Buzz around Prime Day success, 4K mentions focusing on consumer enthusiasm. |
+Quick Stat: P/E (ttm) = 60.2 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: The positive response to Prime Day hints at strong consumer engagement, though the elevated P/E reflects high growth expectations set by investors.  
+**Education Bite**: High P/E values can signal market belief in long-term growth, but may also indicate higher risk if expectations are not met.  
 
-### Palantir Technologies Inc. (PLTR)
-- **Percent Change:** +3.02%
-- **Why:** Secured new government contract to enhance data analytics capabilities. (palantir.com, 2025-09-19 UTC)
-- **Buzz:** Buzzing discussions on Reddit, 1,200 mentions. Growing interest in government tech advances.  
-- **Quick Stat:** P/E (ttm) = 30.23 (as of 2025-09-19; source: finance.yahoo.com).
+| Ford Motor Company (F) | −0.98% | Production issues reported impacting Q4 output. (ford.com, 2025-09-18 UTC) | Concerned discussions, 2K mentions reflecting worries over reliability. |
+Quick Stat: P/E (ttm) = 8.5 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: Production delays create uncertainty around Ford's Q4 outlook, prompting investor caution expressed in its low valuation metrics.  
+**Education Bite**: A low P/E ratio like Ford’s might indicate potential undervaluation, yet it can also reflect market concerns about future performance.  
 
-**What This Means:** Securing a government contract increases Palantir's revenue potential, while the active discussions on Reddit reflect a community eager for advancements in government tech.
+| Meta Platforms, Inc. (META) | −0.24% | User growth stagnation reported in latest earnings call. (bloomberg.com, 2025-09-18 UTC) | Negative sentiment prevalent with 10K mentions, memes about user decline. |
+Quick Stat: P/E (ttm) = 25.95 (as of 2025-09-20; source: finance.yahoo.com). |  
+What This Means: Stagnant user growth raises concerns about Meta’s future profitability, making its current P/E seem elevated amidst investor apprehension.  
+**Education Bite**: A P/E ratio above the market average indicates investor caution, often in response to growth or market sentiment challenges.  
 
-**Education Bite:** “Revenue potential” refers to the possibility of generating income from new contracts or sales, crucial for future growth expectations.
-
----
-
-### Amgen Inc. (AMGN)
-- **Percent Change:** +3.50%
-- **Why:** Positive Phase 3 trial results for new cholesterol medication. (amgen.com, 2025-09-17 UTC)
-- **Buzz:** Strong enthusiasm on Twitter, with 600 mentions. Health breakthroughs trending among users.  
-- **Quick Stat:** P/E (ttm) = 15.02 (as of 2025-09-19; source: finance.yahoo.com).
-
-**What This Means:** The promising trial results have spurred excitement in social media communities, and Amgen’s reasonable P/E indicates a potentially undervalued stock given its growth prospects.
-
-**Education Bite:** “Valuation” refers to determining a stock's worth, often assessed through ratios like P/E to see if it's over or undervalued.
-
----
-
-### Johnson & Johnson (JNJ)
-- **Percent Change:** +1.17%
-- **Why:** Received approval for new cancer treatment, boosting outlook. (jnj.com, 2025-09-19 UTC)
-- **Buzz:** Prominent discussions on health forums, 1,000 mentions. Excitement over medical advancements.  
-- **Quick Stat:** P/E (ttm) = 17.66 (as of 2025-09-19; source: finance.yahoo.com).
-
-**What This Means:** The approval of an innovative cancer treatment has sparked considerable interest, positioning Johnson & Johnson well in the healthcare sector with a balanced P/E.
-
-**Education Bite:** “Market outlook” reflects investor expectations for a company's performance, influenced by recent developments like product approvals.
-
----
-
-### Robinhood Markets Inc. (HOOD)
-- **Percent Change:** +3.09%
-- **Why:** Unveiled feature update enhancing trading experience. (robinhood.com, 2025-09-17 UTC)
-- **Buzz:** Trending topic on Twitter with 700 mentions. Users eager for improved trading tools.  
-- **Quick Stat:** P/E (ttm) = 46.21 (as of 2025-09-19; source: finance.yahoo.com).
-
-**What This Means:** The new trading features are garnering social media attention, indicating user interest, but the high P/E ratio suggests that investors are betting heavily on future growth.
-
-**Education Bite:** “Feature update” signifies improvements made to a platform or service, aimed at enhancing user experience and attracting more users.
-
----
-
-### Zeta Global Holdings Corp. (ZETA)
-- **Percent Change:** +1.92%
-- **Why:** Reported strong quarterly earnings beating expectations. (zeta.com, 2025-09-18 UTC)
-- **Buzz:** Positive feedback on social media, with 500 mentions. Investors optimistic about financial growth.  
-- **Quick Stat:** P/E (ttm) = 19.19 (as of 2025-09-19; source: finance.yahoo.com).
-
-**What This Means:** Beating earnings expectations has generated positive sentiment online, and a reasonable P/E suggests that Zeta is maintaining solid growth potential without overvaluation.
-
-**Education Bite:** “Earnings expectations” are forecasts regarding a company’s profitability, impacting stock performance based on actual results compared to predictions.
-
----
-
-### Salesforce Inc. (CRM)
-- **Percent Change:** +1.11%
-- **Why:** Celebrated 20% growth in customer base in recent earnings report. (salesforce.com, 2025-09-18 UTC)
-- **Buzz:** Buzzing on LinkedIn, with 400 mentions. Professionals excited about CRM innovations.  
-- **Quick Stat:** P/E (ttm) = 35.11 (as of 2025-09-19; source: finance.yahoo.com).
-
-**What This Means:** The 20% customer base growth has captured the attention of professionals, reflecting strong confidence in Salesforce's future, despite a higher-than-average P/E ratio.
-
-**Education Bite:** “Customer base growth” indicates an increase in the number of users of a company’s products or services, crucial for future sales.
-
----
-
-### Microsoft Corporation (MSFT)
-- **Percent Change:** +1.87%
-- **Why:** Launched new AI capabilities within Microsoft Office suite. (microsoft.com, 2025-09-19 UTC)
-- **Buzz:** Heated discussions on tech forums, 900 mentions. Users intrigued by AI advancements.  
-- **Quick Stat:** P/E (ttm) = 28.88 (as of 2025-09-19; source: finance.yahoo.com).
-
-**What This Means:** The excitement around Microsoft’s AI innovations is evident in online discussions, with a solid P/E that indicates a healthy valuation relative to growth expectations.
-
-**Education Bite:** “AI capabilities” refer to advanced features powered by artificial intelligence that enhance user functionality, reflecting tech advancements in products.
-
----
-
-### Hims & Hers Health Inc. (HIMS)
-- **Percent Change:** +2.87%
-- **Why:** Launched new telehealth service expanding into mental health. (hims.com, 2025-09-17 UTC)
-- **Buzz:** Growing chatter on wellness platforms with 300 mentions. Interest in mental health services increasing.  
-- **Quick Stat:** P/E (ttm) = 57.63 (as of 2025-09-19; source: finance.yahoo.com).
-
-**What This Means:** Hims & Hers is tapping into a growing market for mental health services, attracting buzz online, although the high P/E indicates that investors may be pricing in significant future growth.
-
-**Education Bite:** “Telehealth service” allows patients to access healthcare through digital platforms, increasing convenience and accessibility for mental health support.
+*Note: The P/E ratios provided are based on the latest available data as of September 20, 2025, sourced from finance.yahoo.com.*

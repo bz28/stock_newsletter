@@ -20,9 +20,9 @@ response = client.responses.create(
     tools = [{"type": "web_search"}],
     input =
         f"""
-        Create a list of the 10 stocks mentioned in {what_this_means_content}, only keeping track of each stock's name.
+        Goal: For each stock mentioned (exactly those in {what_this_means_content}, original order), append a new "Education bite" line to the end of its entry. Do not alter any existing text.
 
-        For each stock in the list created, create a report including only these specific requirements:
+        Follow these rules:
             1. All information provided must be from the past day, including sources and stats.
             2. Create a short, 20 to 30 word explainer of one key concept that is mentioned for the specific stock (EPS, P/E, guidance, short interest, dividend yield, etc.).
             3. Title this section "Education Bite"
