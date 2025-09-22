@@ -1,14 +1,25 @@
-Based on the available data, the top 10 most viral stocks in the past 24 hours across social media platforms like Reddit, X (Twitter), and TikTok, as of September 19, 2025, are:
-
-1. **Tesla Inc. (TSLA)**
-2. **Twitter Inc. (TWTR)**
-3. **Meta Platforms Inc. (META)**
-4. **Apple Inc. (AAPL)**
-5. **Microsoft Corporation (MSFT)**
-6. **Amazon.com Inc. (AMZN)**
-7. **NVIDIA Corporation (NVDA)**
-8. **Netflix Inc. (NFLX)**
-9. **Alphabet Inc. (GOOGL)**
-10. **SPDR S&P 500 ETF Trust (SPY)**
-
-Please note that this ranking is based on the frequency of mentions and overall engagement across the specified platforms.
+1. NVDA — NVIDIA Corporation
+2. PLTR — Palantir Technologies Inc.
+3. SOFI — SoFi Technologies Inc.
+4. HIMS — Hims & Hers Health Inc.
+5. AMD — Advanced Micro Devices Inc.
+6. OSCR — Oscar Health Inc.
+7. LMND — Lemonade Inc.
+8. SHOP — Shopify Inc.
+9. HOOD — Robinhood Markets Inc.
+10. ZETA — Zeta Global Holdings Corp.
+11. MSFT — Microsoft Corporation
+12. GS — The Goldman Sachs Group Inc.
+13. UNH — UnitedHealth Group Incorporated
+14. MCD — McDonald's Corporation
+15. MRK — Merck & Co. Inc.
+16. AMGN — Amgen Inc.
+17. JPM — JPMorgan Chase & Co.
+18. HD — The Home Depot Inc.
+19. V — Visa Inc.
+20. CAT — Caterpillar Inc.
+21. CRM — Salesforce Inc.
+22. HON — Honeywell International Inc.
+23. AXP — American Express Company
+24. PG — The Procter & Gamble Company
+25. JNJ — Johnson & Johnson

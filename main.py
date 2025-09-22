@@ -9,6 +9,7 @@ files = [
     "test_prompts/what_this_means_prompt/what_this_means_prompt.py",
     "test_prompts/education_bite_prompt/education_bite_prompt.py",
     "test_prompts/email_formatting_prompt/email_formatting_prompt.py",
+    "email_list/email_list.py"
 ]
 
 for file in files:

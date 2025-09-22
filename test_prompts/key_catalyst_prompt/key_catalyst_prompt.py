@@ -16,27 +16,36 @@ file_path = "test_prompts/stock_movement_prompt/output.txt"
 with open(file_path, "r", encoding="utf-8") as f:
     stock_movement_context = f.read()
 
-# prompts
 response = client.responses.create(
     model="gpt-4o-mini",
-    tools = [{"type": "web_search"}],
-    input =
-        f"""
-        Create a list of the 10 stocks mentioned in {stock_movement_context}, only keeping track of each stock's name.
+    tools=[{"type": "web_search"}],
+    input=f"""
+            For each stock mentioned in {stock_movement_context}, append a new **"Why"** line that meets ALL rules:
 
-        For each stock in the list created, create a report including only these specific requirements:
-            1. All information provided must be from the past dat, including sources and stats, todays date is {date}.
-            2. Briefly summarize the key catalyst (e.g., earnings beat, recall, product launch) behind each stock's price movement. Title this section "why", limiting to 30 words per stock.
-            3. Limit your entire response to at most 300 words.
-            4. Do not change the content in {stock_movement_context}, only add the new "Quick Stat" section to the existing content, where the format should be similar but not with the exact same information as:
-                    1.  Nvidia (NVDA) +x%
-                        Why: Earnings beat estimates by x percent on booming AI chip demand.
-            5. Remember that all information, including sources and stats, must be from the past day. Remember todays date is {date}.
-                
-        The purpose of this section is to give the reader immediate context so they aren't just seeing numbers in a vacuum.
-        """
+            DATA FRESHNESS
+            - Today's date is {date}. All information (stats + sources) must be within the **past 7 days**.
+            - Prefer **primary, timestamped** sources (company PR, SEC filing, earnings release, reputable news with visible date/time).
+            - If no timestamped primary source exists, you may use an official platform post (X/Reddit/TikTok) that clearly falls in-window.
+            - If still none, don't include the stock in the output.
+
+            NO SPECULATION
+            - **Ban** words/phrases: "likely", "possibly", "could be", "investor sentiment", "market volatility", "no major news" (unless paired with the fallback above).
+            - Provide a concrete catalyst type from this whitelist when applicable: earnings, guidance, rating/price-target change, regulatory, product launch, partnership, recall, M&A, litigation, macro data, outage/incident, leadership change, buyback/dividend, unusual volume/options (with a timestamped source).
+
+            FORMAT & LENGTH
+            - Do not modify any existing text in {stock_movement_context}. Only append a single **Why** line under each listed stock.
+            - Max **30 words** per Why line.
+            - Include exactly **one** citation with domain and the article/post **date (UTC)** in parentheses at end, e.g.:
+            Why: Rating cut to Neutral on margin risk. (reuters.com, 2025-09-18 UTC)
+            - Entire response ≤ **300 words** total.
+
+            EXAMPLE (structure only):
+            1. Nvidia (NVDA) +x%
+            Why: Beat EPS and raised FY guide on AI demand. (investor.nvidia.com, 2025-09-17 UTC)
+
+            Now produce the Why lines for every stock present in {stock_movement_context}. If a stock lacks a verified, timestamped source in-window, use the fallback exactly as specified.
+            """
 )
-
 output_text = response.output_text.strip()
 with open("test_prompts/key_catalyst_prompt/output.txt", "w", encoding="utf-8") as f:
     f.write(output_text)

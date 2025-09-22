@@ -1,14 +1,31 @@
-Based on the available data from the past 24 hours, as of September 18, 2025, the top 10 most viral stocks across social media platforms like Reddit, X (Twitter), and TikTok are:
+Here are the regular-session percent changes for each ticker on September 19, 2025:
 
-1. **Tesla Inc. (TSLA)**: +2.44%
-2. **Twitter Inc. (TWTR)**: +1.08%
-3. **Meta Platforms Inc. (META)**: +0.87%
-4. **Apple Inc. (AAPL)**: +0.30%
-5. **Microsoft Corporation (MSFT)**: +0.24%
-6. **Amazon.com Inc. (AMZN)**: +0.44%
-7. **NVIDIA Corporation (NVDA)**: +0.30%
-8. **Netflix Inc. (NFLX)**: +0.30%
-9. **Alphabet Inc. (GOOGL)**: +0.30%
-10. **SPDR S&P 500 ETF Trust (SPY)**: +0.30%
+| Company Name (Ticker) | Percent Change |
+|-----------------------|----------------|
+| NVIDIA Corporation (NVDA) | +0.24% |
+| Palantir Technologies Inc. (PLTR) | +3.02% |
+| SoFi Technologies Inc. (SOFI) | +5.02% |
+| Hims & Hers Health Inc. (HIMS) | +2.87% |
+| Advanced Micro Devices Inc. (AMD) | -0.32% |
+| Oscar Health Inc. (OSCR) | -0.71% |
+| Lemonade Inc. (LMND) | +6.42% |
+| Shopify Inc. (SHOP) | +0.75% |
+| Robinhood Markets Inc. (HOOD) | +3.09% |
+| Zeta Global Holdings Corp. (ZETA) | +1.92% |
+| Microsoft Corporation (MSFT) | +1.87% |
+| The Goldman Sachs Group Inc. (GS) | +0.15% |
+| UnitedHealth Group Incorporated (UNH) | +0.55% |
+| McDonald's Corporation (MCD) | +0.41% |
+| Merck & Co. Inc. (MRK) | -0.04% |
+| Amgen Inc. (AMGN) | +3.50% |
+| JPMorgan Chase & Co. (JPM) | +0.49% |
+| The Home Depot Inc. (HD) | -0.41% |
+| Visa Inc. (V) | +0.97% |
+| Caterpillar Inc. (CAT) | -0.04% |
+| Salesforce Inc. (CRM) | +1.11% |
+| Honeywell International Inc. (HON) | -0.34% |
+| American Express Company (AXP) | -0.16% |
+| The Procter & Gamble Company (PG) | -0.80% |
+| Johnson & Johnson (JNJ) | +1.17% |
 
-Please note that the percentage changes are based on the stock prices as of September 18, 2025, and reflect the most recent data available.
+*Note: Percent changes are calculated based on the closing prices for September 19, 2025.*

@@ -35,6 +35,7 @@ response = client.responses.create(
             6. Remember that all information, including sources and stats, must be from the past day.
         
         The purpose of this section is to bridge the gap between raw data and actionable understanding.
+        The output should only contain the 10 stocks.
         """
 )
 
