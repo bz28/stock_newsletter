@@ -1,25 +1,25 @@
-1. OPEN — Opendoor Technologies Inc.
-2. NVDA — NVIDIA Corporation
-3. TSLA — Tesla, Inc.
+1. NVDA — NVIDIA Corporation
+2. INTC — Intel Corporation
+3. CRWD — CrowdStrike Holdings, Inc.
 4. AAPL — Apple Inc.
 5. GOOGL — Alphabet Inc.
-6. META — Meta Platforms, Inc.
-7. AMZN — Amazon.com, Inc.
-8. PLTR — Palantir Technologies Inc.
-9. ZM — Zoom Video Communications, Inc.
-10. SNAP — Snap Inc.
-11. TSM — Taiwan Semiconductor Manufacturing Company Limited
-12. CSX — CSX Corporation
-13. NEOG — Neogen Corporation
-14. HPE — Hewlett Packard Enterprise Company
-15. F — Ford Motor Company
-16. BAC — Bank of America Corporation
-17. OPEN — Opendoor Technologies Inc.
-18. WMB — Williams Companies, Inc.
-19. MIR — Mirion Technologies, Inc.
-20. NEOG — Neogen Corporation
-21. CSX — CSX Corporation
-22. KVUE — Kenvue Inc.
-23. CMCSA — Comcast Corporation
-24. META — Meta Platforms, Inc.
-25. NVDA — NVIDIA Corporation
+6. PYPL — PayPal Holdings, Inc.
+7. TSLA — Tesla, Inc.
+8. ORCL — Oracle Corporation
+9. MU — Micron Technology, Inc.
+10. SMCI — Super Micro Computer, Inc.
+11. ADBE — Adobe Inc.
+12. SNPS — Synopsys, Inc.
+13. WBD — Warner Bros. Discovery, Inc.
+14. BA — The Boeing Company
+15. PLTR — Palantir Technologies Inc.
+16. VST — Vistra Corp
+17. SMCI — Super Micro Computer, Inc.
+18. FDS — FactSet Research Systems Inc.
+19. CCL — Carnival Corporation & plc
+20. LULU — Lululemon Athletica Inc.
+21. DOCU — DocuSign, Inc.
+22. ZSCALER — Zscaler, Inc.
+23. MDB — MongoDB, Inc.
+24. OKLO — Oklo Inc.
+25. GTLB — GitLab Inc.

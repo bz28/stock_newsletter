@@ -22,8 +22,8 @@ response = client.responses.create(
     tools=[{"type": "web_search"}],
     input=f"""
 Task
-- From {quick_stat_content}, identify exactly 10 stocks (preserve order of appearance).
-- Output only those 10 stocks with the original content preserved.
+- From {quick_stat_content}, identify exactly 5 stocks (preserve order of appearance).
+- Output only those 5 stocks with the original content preserved.
 - Do not include any extra stocks, commentary, or prose.
 
 Data Freshness
@@ -37,19 +37,18 @@ Formatting
   What This Means: Write 1–2 plain-English sentences connecting the Why, Buzz, and Quick Stat into a clear investor takeaway.
 
 Rules
-- No speculation words: "likely", "possibly", "could be", "general sentiment".
-- Each What This Means must be ≤40 words.
+- Each What This Means must be ≤20 words.
 - Do not produce a new table or summary; only modify the existing stock entries.
-- The final output must contain exactly 10 stocks with appended What This Means sections.
+- The final output must contain exactly 5 stocks with appended What This Means sections.
 
 Example (structure only):
 Nvidia (NVDA) +x%
-Why: Earnings beat estimates by x percent on booming AI chip demand. (investor.nvidia.com, 2025-09-20 UTC)
-Buzz: +200% Reddit mentions. (swaggystocks.com, 2025-09-21 UTC)
-Quick Stat: P/E = 45 (market avg ~20).
-What This Means: Strong AI demand and elevated valuation show investors are willing to pay a premium for growth.
+Why: Earnings beat estimates by x percent on booming AI chip demand. 
+Buzz: +200% Reddit mentions. 
+Quick Stat: P/E = 45 .
+What This Means: Strong AI demand and elevated valuation hint at a solid opportunity to buy for long term growth.
 
-Now, return the 10 stocks from {quick_stat_content} updated with What This Means as specified.
+Now, return the 5 stocks from {quick_stat_content} updated with What This Means as specified.
 """
 )
 

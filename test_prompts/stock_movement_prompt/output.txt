@@ -1,26 +1,31 @@
-Here are the regular-session percent changes for each ticker on September 19, 2025:
+Here are the regular-session percent changes for each ticker on September 22, 2025:
 
 | Company Name (Ticker) | Percent Change |
 |-----------------------|----------------|
-| Opendoor Technologies Inc. (OPEN) | −3.92% |
-| NVIDIA Corporation (NVDA) | +0.25% |
-| Tesla, Inc. (TSLA) | +2.17% |
-| Apple Inc. (AAPL) | +3.16% |
-| Alphabet Inc. (GOOGL) | +1.04% |
-| Meta Platforms, Inc. (META) | −0.24% |
-| Amazon.com, Inc. (AMZN) | +0.10% |
-| Palantir Technologies Inc. (PLTR) | +3.02% |
-| Zoom Video Communications, Inc. (ZM) | −3.09% |
-| Snap Inc. (SNAP) | −3.26% |
-| Taiwan Semiconductor Manufacturing Company Limited (TSM) | −1.42% |
-| CSX Corporation (CSX) | −1.42% |
-| Neogen Corporation (NEOG) | −0.97% |
-| Hewlett Packard Enterprise Company (HPE) | −0.99% |
-| Ford Motor Company (F) | −0.98% |
-| Bank of America Corporation (BAC) | +0.23% |
-| Williams Companies, Inc. (WMB) | −0.41% |
-| Mirion Technologies, Inc. (MIR) | −0.61% |
-| Kenvue Inc. (KVUE) | +1.35% |
-| Comcast Corporation (CMCSA) | −0.17% |
+| NVIDIA Corporation (NVDA) | +3.92% |
+| Intel Corporation (INTC) | -2.84% |
+| CrowdStrike Holdings, Inc. (CRWD) | -1.90% |
+| Apple Inc. (AAPL) | +4.32% |
+| Alphabet Inc. (GOOGL) | -0.86% |
+| PayPal Holdings, Inc. (PYPL) | -0.80% |
+| Tesla, Inc. (TSLA) | +1.91% |
+| Oracle Corporation (ORCL) | +6.35% |
+| Micron Technology, Inc. (MU) | +1.14% |
+| Super Micro Computer, Inc. (SMCI) | +2.34% |
+| Adobe Inc. (ADBE) | -0.52% |
+| Synopsys, Inc. (SNPS) | +3.84% |
+| Warner Bros. Discovery, Inc. (WBD) | +1.55% |
+| The Boeing Company (BA) | -1.66% |
+| Palantir Technologies Inc. (PLTR) | -1.69% |
+| Vistra Corp (VST) | +3.12% |
+| Super Micro Computer, Inc. (SMCI) | +2.34% |
+| FactSet Research Systems Inc. (FDS) | +2.23% |
+| Carnival Corporation & plc (CCL) | +0.59% |
+| Lululemon Athletica Inc. (LULU) | +2.21% |
+| DocuSign, Inc. (DOCU) | +0.31% |
+| Zscaler, Inc. (ZS) | -0.98% |
+| MongoDB, Inc. (MDB) | -0.03% |
+| Oklo Inc. (OKLO) | +3.74% |
+| GitLab Inc. (GTLB) | -1.44% |
 
-*Note: The percent changes are calculated based on the closing prices for September 19, 2025.*
+*Note: The percent changes are calculated based on the closing prices for September 22, 2025.*

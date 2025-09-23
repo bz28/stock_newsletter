@@ -69,7 +69,7 @@ def create_html_message(
     return {"raw": raw}
 
 # ---------- Sending helpers ----------
-def read_recipients(path: str | Path = "email_list.txt") -> list[str]:
+def read_recipients(path: str | Path = "test_email_list.txt") -> list[str]:
     with open(path, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip() and not line.strip().startswith("#")]
 
@@ -77,7 +77,7 @@ def send_html_to_list(
     service,
     subject: str,
     html_path: str | Path,
-    recipients_path: str | Path = "email_list.txt",
+    recipients_path: str | Path = "test_email_list.txt",
     sender: str | None = None,
     list_unsub_mailto: str | None = None,
     list_unsub_url: str | None = None,
@@ -110,8 +110,18 @@ def send_html_to_list(
 def extract_headline(html_path: str) -> str:
     with open(html_path, "r", encoding="utf-8") as f:
         soup = BeautifulSoup(f, "html.parser")
+
+    # Try original class-based headline first
     headline = soup.find("p", class_="headline")
-    return headline.get_text(strip=True) if headline else "Daily Newsletter"
+    if headline:
+        return headline.get_text(strip=True)
+
+    # Otherwise fall back to the first big <td> styled as headline
+    td_headline = soup.find("td", style=lambda s: s and "font-size:28px" in s)
+    if td_headline:
+        return td_headline.get_text(strip=True)
+
+    return "Daily Newsletter"
 
 # ---------- Main ----------
 if __name__ == "__main__":
@@ -125,7 +135,7 @@ if __name__ == "__main__":
 
     html_path = "test_prompts/email_formatting_prompt/output.html"
     subject = extract_headline(html_path)
-    recipients_path = "email_list/email_list.txt"
+    recipients_path = "email_list/test_email_list.txt"
 
     send_html_to_list(
         service=service,

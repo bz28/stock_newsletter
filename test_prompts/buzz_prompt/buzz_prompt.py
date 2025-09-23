@@ -28,10 +28,13 @@ response = client.responses.create(
                 | Company Name (Ticker) | Percent Change | Why |
                 Return **the same table** with an added **fourth column** named **Buzz** appended at the end.
                 - Output **ONLY** the updated table. No headings, lists, or extra prose.
-            2. The buzz section contains a summary of the most important cultural or sentiment signals from chatter on social media like Reddit, Twitter/X, and TikTok, including social mention counts, limiting to 50 words.
+            2. The buzz section contains a summary of the most important cultural or sentiment signals from chatter on social media like Reddit, Twitter/X, and TikTok, including social mention counts, limiting to 10 words.
+            3. Example:
+                        Buzz: 12,000+ mentions on Reddit; AI enthusiasts are bullish. 
+
 
         The purpose of this section is to show the social temperature of the stock — hype, panic, or meme status.
-        Only output the 10 most interesting stocks with buzz AND why.
+        Only output the 5 most interesting stocks with buzz AND why.
         """
 )
 

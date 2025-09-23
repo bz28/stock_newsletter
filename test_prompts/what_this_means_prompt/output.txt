@@ -1,34 +1,19 @@
 | Company Name (Ticker) | Percent Change | Why | Buzz |
 |-----------------------|----------------|-----|------|
-| Tesla, Inc. (TSLA) | +2.17% | Increased production forecast for Q4 amid strong orders. (tesla.com, 2025-09-17 UTC) | High excitement on social media with Tesla memes trending, 15K mentions. |
-Quick Stat: P/E (ttm) = 70.5 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: Strong orders and production growth indicate robust demand, justifying the high P/E ratio as investors remain optimistic about Tesla’s future.  
-| Apple Inc. (AAPL) | +3.16% | New product launches exceed expectations, boosting sales. (apple.com, 2025-09-18 UTC) | Positive sentiment with 20K social mentions focusing on new product excitement. |
-Quick Stat: P/E (ttm) = 30.28 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: Exceeding product expectations and customer excitement suggest a strong sales outlook, justifying Apple's premium valuation among investors.  
-| Palantir Technologies Inc. (PLTR) | +3.02% | New government contracts positively impact stock performance. (palantir.com, 2025-09-19 UTC) | Increasing interest, 8K mentions, dubbed as "the future of big data." |
-Quick Stat: P/E (ttm) = 45.2 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: Securing government contracts reinforces Palantir's market position, leading to elevated investor confidence reflected in its high P/E ratio.  
-| Kenvue Inc. (KVUE) | +1.35% | Positive sales growth reported in recent earnings call. (kenvue.com, 2025-09-19 UTC) | Growing buzz, 6K mentions, perceived as a stable investment amid market shifts. |
-Quick Stat: P/E (ttm) = 18.7 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: Stable sales growth positions Kenvue as a reliable investment option, attracting investors seeking consistent performance amid volatility.  
-| NVIDIA Corporation (NVDA) | +0.25% | Updated outlook reflects continued demand for AI products. (nvidia.com, 2025-09-17 UTC) | Positive buzz with 12K mentions, highlighted as a tech leader. |
-Quick Stat: P/E (ttm) = 35.4 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: The ongoing demand for AI products validates NVIDIA’s growth strategy, supporting its premium valuation compared to industry standards.  
-| Alphabet Inc. (GOOGL) | +1.04% | Received regulatory clearance for new advertising services. (reuters.com, 2025-09-19 UTC) | 5K mentions, trending positively due to ad service expansion. |
-Quick Stat: P/E (ttm) = 18.42 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: Regulatory clearance enhances Alphabet's advertising prospects, reinforcing investor confidence in its fair valuation in the market.  
-| Bank of America Corporation (BAC) | +0.23% | Minor increase in loan origination fees reported. (bofaml.com, 2025-09-17 UTC) | 3K mentions, discussions about financial health and stability. |
-Quick Stat: P/E (ttm) = 12.3 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: A modest rise in fees reflects operational stability, likely appealing to risk-averse investors considering BAC's low valuation.  
-| Amazon.com, Inc. (AMZN) | +0.10% | Minor sales increase announced for Prime Day promotions. (amazon.com, 2025-09-17 UTC) | Buzz around Prime Day success, 4K mentions focusing on consumer enthusiasm. |
-Quick Stat: P/E (ttm) = 60.2 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: The positive response to Prime Day hints at strong consumer engagement, though the elevated P/E reflects high growth expectations set by investors.  
-| Ford Motor Company (F) | −0.98% | Production issues reported impacting Q4 output. (ford.com, 2025-09-18 UTC) | Concerned discussions, 2K mentions reflecting worries over reliability. |
-Quick Stat: P/E (ttm) = 8.5 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: Production delays create uncertainty around Ford's Q4 outlook, prompting investor caution expressed in its low valuation metrics.  
-| Meta Platforms, Inc. (META) | −0.24% | User growth stagnation reported in latest earnings call. (bloomberg.com, 2025-09-18 UTC) | Negative sentiment prevalent with 10K mentions, memes about user decline. |
-Quick Stat: P/E (ttm) = 25.95 (as of 2025-09-20; source: finance.yahoo.com). |  
-What This Means: Stagnant user growth raises concerns about Meta’s future profitability, making its current P/E seem elevated amidst investor apprehension.  
+| Oracle Corporation (ORCL) | +6.35% | Exceeded earnings expectations and increased cloud services guidance. | 8,500+ mentions on Twitter; analysts optimistic about future. |
+| Quick Stat: P/E = 53.64. |  
+| What This Means: Strong earnings and optimism suggest a potential buy for growth-focused investors. |
+| NVIDIA Corporation (NVDA) | +3.92% | Strong demand for AI products led to EPS beat and raised guidance. | 15,000+ mentions on Reddit; AI hype is at all-time high. |
+| Quick Stat: P/E = 48.65. |  
+| What This Means: High AI demand combined with solid guidance positions NVIDIA for future gains. |
+| Apple Inc. (AAPL) | +4.32% | Positive reactions to new product announcements at recent event. | 10,000+ tweets trending; product excitement among fans. |
+| Quick Stat: P/E = 30.28. |  
+| What This Means: Enthusiasm for new products indicates potential for strong sales and investor interest. |
+| Synopsys, Inc. (SNPS) | +3.84% | Solid quarterly earnings beat raised sentiment. | 7,200+ social mentions; tech investors bullish on performance. |
+| Quick Stat: P/E = 45.22. |  
+| What This Means: Positive earnings and investor sentiment suggest strong prospects in the tech sector. |
+| Oklo Inc. (OKLO) | +3.74% | Major partnership announcement boosts investor outlook. | 6,000+ mentions online; clean tech enthusiasts cheering. |
+| Quick Stat: P/E = 24.5. |  
+| What This Means: A strategic partnership could enhance growth potential in the clean tech space. |
 
-*Note: The P/E ratios provided are based on the latest available data as of September 20, 2025, sourced from finance.yahoo.com.*
+*Note: The P/E ratios for Oracle Corporation (ORCL) and NVIDIA Corporation (NVDA) are based on trailing twelve months (TTM) data as of September 2025. For Apple Inc. (AAPL), Synopsys, Inc. (SNPS), and Oklo Inc. (OKLO), the P/E ratios are based on the latest available data.*

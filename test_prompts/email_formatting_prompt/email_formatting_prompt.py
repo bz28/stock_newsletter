@@ -35,7 +35,7 @@ response = client.responses.create(
             - 👀 Tesla surges, NVIDIA steady, Netflix slides — here’s what matters today
             - TikTok Can’t Stop Talking About Tesla, NVIDIA’s AI Mentions Spike, Netflix Fades — Here’s Why
             - Tesla’s Blowing Up on TikTok, NVIDIA’s Hot, Netflix Not
-        6. The newsletter must contain and dicuss all 10 stocks
+        6. The newsletter must contain and dicuss all 5 stocks
         7. Must include all 5 sections of why, buzz, quick stat, what this means, and education bite
         7. Add this hyperlinked feedback form to the bottom of the email: https://docs.google.com/forms/d/e/1FAIpQLSdg5fh8xNHfpQcksArIT2la8I60U6FCs8R83hG7jJPkRZzG8w/viewform .
         8. The output should only contain the html code

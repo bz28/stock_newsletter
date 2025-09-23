@@ -23,7 +23,7 @@ response = client.responses.create(
             For each stock mentioned in {stock_movement_context}, append a new **"Why"** line that meets ALL rules:
 
             DATA FRESHNESS
-            - Today's date is {date}. All information (stats + sources) must be within the **past 7 days**.
+            - Today's date is {date}. All information (stats + sources) must be within the **past 7 days**. Priortize more recent information, specifically from the past 24 hours.
             - Prefer **primary, timestamped** sources (company PR, SEC filing, earnings release, reputable news with visible date/time).
             - If no timestamped primary source exists, you may use an official platform post (X/Reddit/TikTok) that clearly falls in-window.
             - If still none, don't include the stock in the output.
@@ -35,13 +35,11 @@ response = client.responses.create(
             FORMAT & LENGTH
             - Do not modify any existing text in {stock_movement_context}. Only append a single **Why** line under each listed stock.
             - Max **30 words** per Why line.
-            - Include exactly **one** citation with domain and the article/post **date (UTC)** in parentheses at end, e.g.:
-            Why: Rating cut to Neutral on margin risk. (reuters.com, 2025-09-18 UTC)
             - Entire response ≤ **300 words** total.
 
             EXAMPLE (structure only):
             1. Nvidia (NVDA) +x%
-            Why: Beat EPS and raised FY guide on AI demand. (investor.nvidia.com, 2025-09-17 UTC)
+            Why: Beat EPS and raised FY guide on AI demand.
 
             Now produce the Why lines for every stock present in {stock_movement_context}. If a stock lacks a verified, timestamped source in-window, use the fallback exactly as specified.
             """

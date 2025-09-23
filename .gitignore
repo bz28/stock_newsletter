@@ -6,3 +6,4 @@ venv/
 credentials.json
 token.json
 email_list.txt
+test_email_list.txt
