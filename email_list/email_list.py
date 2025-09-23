@@ -69,7 +69,7 @@ def create_html_message(
     return {"raw": raw}
 
 # ---------- Sending helpers ----------
-def read_recipients(path: str | Path = "test_email_list.txt") -> list[str]:
+def read_recipients(path: str | Path = "email_list.txt") -> list[str]:
     with open(path, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip() and not line.strip().startswith("#")]
 
@@ -77,7 +77,7 @@ def send_html_to_list(
     service,
     subject: str,
     html_path: str | Path,
-    recipients_path: str | Path = "test_email_list.txt",
+    recipients_path: str | Path = "email_list.txt",
     sender: str | None = None,
     list_unsub_mailto: str | None = None,
     list_unsub_url: str | None = None,
@@ -135,7 +135,7 @@ if __name__ == "__main__":
 
     html_path = "test_prompts/email_formatting_prompt/output.html"
     subject = extract_headline(html_path)
-    recipients_path = "email_list/test_email_list.txt"
+    recipients_path = "email_list/email_list.txt"
 
     send_html_to_list(
         service=service,

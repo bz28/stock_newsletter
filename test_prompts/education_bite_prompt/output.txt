@@ -1,24 +1,22 @@
 | Company Name (Ticker) | Percent Change | Why | Buzz |
 |-----------------------|----------------|-----|------|
-| Oracle Corporation (ORCL) | +6.35% | Exceeded earnings expectations and increased cloud services guidance. | 8,500+ mentions on Twitter; analysts optimistic about future. |
-| Quick Stat: P/E = 53.64. |  
-| What This Means: Strong earnings and optimism suggest a potential buy for growth-focused investors. |
-| Education Bite: "P/E ratio" = Price/Earnings → how much investors pay per $1 of profit. |
-| NVIDIA Corporation (NVDA) | +3.92% | Strong demand for AI products led to EPS beat and raised guidance. | 15,000+ mentions on Reddit; AI hype is at all-time high. |
-| Quick Stat: P/E = 48.65. |  
-| What This Means: High AI demand combined with solid guidance positions NVIDIA for future gains. |
-| Education Bite: "EPS" = Earnings Per Share → company's profit allocated to each outstanding share. |
-| Apple Inc. (AAPL) | +4.32% | Positive reactions to new product announcements at recent event. | 10,000+ tweets trending; product excitement among fans. |
-| Quick Stat: P/E = 30.28. |  
-| What This Means: Enthusiasm for new products indicates potential for strong sales and investor interest. |
-| Education Bite: "P/E ratio" = Price/Earnings → how much investors pay per $1 of profit. |
-| Synopsys, Inc. (SNPS) | +3.84% | Solid quarterly earnings beat raised sentiment. | 7,200+ social mentions; tech investors bullish on performance. |
-| Quick Stat: P/E = 45.22. |  
-| What This Means: Positive earnings and investor sentiment suggest strong prospects in the tech sector. |
-| Education Bite: "P/E ratio" = Price/Earnings → how much investors pay per $1 of profit. |
-| Oklo Inc. (OKLO) | +3.74% | Major partnership announcement boosts investor outlook. | 6,000+ mentions online; clean tech enthusiasts cheering. |
-| Quick Stat: P/E = 24.5. |  
-| What This Means: A strategic partnership could enhance growth potential in the clean tech space. |
-| Education Bite: "P/E ratio" = Price/Earnings → how much investors pay per $1 of profit. |
-
-*Note: The P/E ratios for Oracle Corporation (ORCL) and NVIDIA Corporation (NVDA) are based on trailing twelve months (TTM) data as of September 2025. For Apple Inc. (AAPL), Synopsys, Inc. (SNPS), and Oklo Inc. (OKLO), the P/E ratios are based on the latest available data.*
+| Oracle Corporation (ORCL) | +6.35% | Exceeded earnings expectations and increased cloud services guidance. | 8,500+ mentions on Twitter; analysts optimistic about future. |  
+Quick Stat: EPS = $4.34. |  
+What This Means: Strong cloud guidance coupled with positive sentiment suggests a robust outlook for investors. |  
+Education Bite: "Earnings Per Share (EPS)" = Net income divided by outstanding shares; indicates company profitability. |  
+| NVIDIA Corporation (NVDA) | +3.92% | Strong demand for AI products led to EPS beat and raised guidance. | 15,000+ mentions on Reddit; AI hype is at all-time high. |  
+Quick Stat: EPS = $2.94. |  
+What This Means: Elevated AI demand and strong earnings indicate a high-growth opportunity for long-term investors. |  
+Education Bite: "Earnings Per Share (EPS)" = Net income divided by outstanding shares; indicates company profitability. |  
+| Apple Inc. (AAPL) | +4.32% | Positive reactions to new product announcements at recent event. | 10,000+ tweets trending; product excitement among fans. |  
+Quick Stat: P/E = 30.28. |  
+What This Means: Enthusiasm for new products may strengthen investor confidence in Apple's future performance. |  
+Education Bite: "Price-to-Earnings (P/E) Ratio" = Stock price divided by earnings per share; measures valuation. |  
+| Synopsys, Inc. (SNPS) | +3.84% | Solid quarterly earnings beat raised sentiment. | 7,200+ social mentions; tech investors bullish on performance. |  
+Quick Stat: P/E = 45.67. |  
+What This Means: Positive earnings reports and strong investor sentiment suggest a continued upward trajectory. |  
+Education Bite: "Price-to-Earnings (P/E) Ratio" = Stock price divided by earnings per share; measures valuation. |  
+| Oklo Inc. (OKLO) | +3.74% | Major partnership announcement boosts investor outlook. | 6,000+ mentions online; clean tech enthusiasts cheering. |  
+Quick Stat: P/E = 25.12. |  
+What This Means: A strategic partnership enhances optimism, positioning Oklo favorably in the clean tech space. |  
+Education Bite: "Price-to-Earnings (P/E) Ratio" = Stock price divided by earnings per share; measures valuation. |
