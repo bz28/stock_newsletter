@@ -21,6 +21,11 @@ response = client.responses.create(
     input =
         f"""
         Goal: For each stock mentioned (exactly those in {what_this_means_content}, original order), append a new "Education bite" line to the end of its entry. Do not alter any existing text.
+       
+        STRICT CONSTRAINTS
+        - Do NOT add any extra sections, headers, bullet lists, notes, or text outside of {what_this_means_content}.
+        - Do NOT add a preamble or quote block.
+        - Your ONLY change: append exactly one "Education Bite:" line under each stock row in the table.
 
         Follow these rules:
             1. All information provided must be from the past day, including sources and stats.

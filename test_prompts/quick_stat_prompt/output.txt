@@ -1,12 +1,12 @@
 | Company Name (Ticker) | Percent Change | Why | Buzz |
 |-----------------------|----------------|-----|------|
 | Oracle Corporation (ORCL) | +6.35% | Exceeded earnings expectations and increased cloud services guidance. | 8,500+ mentions on Twitter; analysts optimistic about future. |
-Quick Stat: EPS = $4.34. |
+Quick Stat: EPS (MRQ) = $1.09 .  
 | NVIDIA Corporation (NVDA) | +3.92% | Strong demand for AI products led to EPS beat and raised guidance. | 15,000+ mentions on Reddit; AI hype is at all-time high. |
-Quick Stat: EPS = $2.94. |
+Quick Stat: EPS (MRQ) = $1.09 .  
 | Apple Inc. (AAPL) | +4.32% | Positive reactions to new product announcements at recent event. | 10,000+ tweets trending; product excitement among fans. |
-Quick Stat: P/E = 30.28. |
+Quick Stat: Revenue YoY = +8.5% .  
 | Synopsys, Inc. (SNPS) | +3.84% | Solid quarterly earnings beat raised sentiment. | 7,200+ social mentions; tech investors bullish on performance. |
-Quick Stat: P/E = 45.67. |
+Quick Stat: EPS (MRQ) = $1.29 .  
 | Oklo Inc. (OKLO) | +3.74% | Major partnership announcement boosts investor outlook. | 6,000+ mentions online; clean tech enthusiasts cheering. |
-Quick Stat: P/E = 25.12. |
+Quick Stat: Revenue YoY = +12.0% .
